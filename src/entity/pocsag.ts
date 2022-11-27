@@ -22,7 +22,7 @@ export class Pocsag {
     @Column()
     msgBaud: number;
     @Column({
-        length: 25
+        length: 200
     })
     msgText: string;
 }

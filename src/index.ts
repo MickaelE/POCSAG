@@ -37,7 +37,7 @@ createConnection({
 
 async function readFile(filename: string, pocsagRepository: Repository<Pocsag>) {
     try {
-        let pocsag1 = new Pocsag();
+
         // ✅ Read contents of directory
         fs.readdir(filename, (err, files) => {
             if (err)
@@ -48,31 +48,44 @@ async function readFile(filename: string, pocsagRepository: Repository<Pocsag>) 
 
                 files.forEach(file => {
                   if(fs.lstatSync(file).isFile() && file.includes(".log"))  {
+                      let pocsag1 = new Pocsag();
                       lineReader.eachLine(file, function(line, last) {
-                          console.log(`Line from file: ${line}`);
-                          var splitted =line.split(" ", 50);
-                          console.log("Splitted: " + splitted);
-                          pocsag1.id = splitted[0];
-                          pocsag1.msgTime = splitted[1];
-                          pocsag1.msgDate = splitted[2];
-                          pocsag1.msgEnc = splitted[3];
-                          pocsag1.msgType= splitted[4];
-                          pocsag1.msgBaud= splitted[5];
-                          pocsag1.msgText= splitted[6];
-                          if(pocsag1.id.toString() == ""){
-                              pocsag1.msgText=splitted[2]
+                         // console.log(`Line from file: ${line}`);
+                          var splitted =line.trim().split(/\s+/);
+                       //   console.log("Splitted: " + splitted);
+                          let count = splitted.length;
+                          if(!line || count ==0){
+                              try {
+                                  console.log(
+                                      " ID: " + pocsag1.id +
+                                      " pagerID: " + pocsag1.pagerID +
+                                      " msgTime: " + pocsag1.msgTime +
+                                      " msgDate: " + pocsag1.msgDate +
+                                      " msgEnc: " + pocsag1.msgEnc +
+                                      " msgType: " + pocsag1.msgType +
+                                      " msgBaud: " + pocsag1.msgBaud +
+                                      " msgText: " + pocsag1.msgText);
+                                  pocsagRepository.save(pocsag1);
+                              } catch (e) {
+                                  console.log(e);
+                              }
+                          } else {
+                              if(count < 3){
+                                  //pocsag1.msgText += splitted[0];
+                              } else {
+                                  pocsag1.pagerID = splitted[0];
+                                  pocsag1.msgTime = splitted[1];
+                                  pocsag1.msgDate = splitted[2];
+                                  pocsag1.msgEnc = splitted[3];
+                                  pocsag1.msgType= splitted[4];
+                                  pocsag1.msgBaud= splitted[5];
+                                  let msgt = "";
+                                  for(let i = 6; i < count; i++) {
+                                      msgt +=  splitted[i];
+                                  }
+                                  pocsag1.msgText =  msgt;
+                              }
                           }
-                          if(!line){
-                              console.log("Text: " + pocsag1.id  +
-                                  " Text: " + pocsag1.msgTime +
-                                  " Text: " + pocsag1.msgDate +
-                                  " Text: " + pocsag1.msgEnc  +
-                                  " Text: " + pocsag1.msgType +
-                                  " Text: " + pocsag1.msgBaud +
-                                  " Text: " + pocsag1.msgText);
-                             // pocsagRepository.save(pocsag1);
-                          }
-                          console.log(" Text: " +pocsag1.msgText)
                           if(last) {
                               console.log('Last line printed.');
                               const used = process.memoryUsage().heapUsed / 1024 / 1024;
