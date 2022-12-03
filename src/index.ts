@@ -30,23 +30,26 @@ createConnection({
     let pocsagRepository = connection.getRepository(Pocsag);
     await pocsagRepository.save(pocsag1);
     console.log('Catalog has been saved'+'\n');
-    await readFile("./",pocsagRepository);
+    await readFile("./testfiler/",pocsagRepository);
 
 
 }).catch(error => console.log(error));
 
-async function readFile(filename: string, pocsagRepository: Repository<Pocsag>) {
+async function readFile(pathName: string, pocsagRepository: Repository<Pocsag>) {
     try {
 
         // ✅ Read contents of directory
-        fs.readdir(filename, (err, files) => {
+        fs.readdir(pathName, (err, files) => {
             if (err)
                 console.log(err);
             else {
                 console.log("\nCurrent directory filenames:");
+                console.log(pathName);
                 const lineReader = require('line-reader');
 
                 files.forEach(file => {
+                    file =  pathName + file;
+                    console.log("Filnamn: " + file);
                   if(fs.lstatSync(file).isFile() && file.includes(".log"))  {
                       let pocsag1 = new Pocsag();
                       let message = "";

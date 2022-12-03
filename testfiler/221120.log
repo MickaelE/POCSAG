@@ -1,0 +1,2793 @@
+1341479 00:05:22 22-11-20 POCSAG-4  ALPHA  1200  Larm från Anderstorpskolan
+                                                 AOS_A_LARM
+                                                 ANSKA_KYL_FRYS_SUMMALARM
+                                                 20 nov 2022 00.04.35 CET
+                                                 Text:
+                                                 Summalarm Utlöst
+
+1356317 00:14:02 22-11-20 POCSAG-4  ALPHA  1200  2022-11-20  00:13:29 
+                                                 ?SE10-9923-BRC Faults                        2
+
+1356317 00:14:26 22-11-20 POCSAG-4  ALPHA  1200  2022-11-20  00:13:28 
+                                                 ?SE10-9923-BRC Faults                        0
+
+1356317 00:15:02 22-11-20 POCSAG-4  ALPHA  1200  2022-11-20  00:13:29 
+                                                 ?SE10-9923-BRC Faults                        2
+
+1356317 00:15:26 22-11-20 POCSAG-4  ALPHA  1200  2022-11-20  00:13:28 
+                                                 ?SE10-9923-BRC Faults                        0
+
+1316349 00:15:48 22-11-20 POCSAG-1 NUMERIC 1200  148018113001002
+
+1345656 00:15:53 22-11-20 POCSAG-4  ALPHA  1200  00.15 A T091:RVRL05.HÖGL Hög vattenförbrukning Kvälleberg (02)Motring 0470-28962
+
+1345577 00:16:23 22-11-20 POCSAG-4  ALPHA  1200  BO023
+                                                 A
+                                                 <BO023.NG01-LaLLH>
+                                                 Hög nivå Avp Rastavallavägen  Bor
+                                                 20/11 00:15
+                                                 3
+
+1316349 00:16:48 22-11-20 POCSAG-1 NUMERIC 1200  148018113001002
+
+1294718 00:18:51 22-11-20 POCSAG-4  ALPHA  1200  1836819 /Tempest Sverkers Pizzeria Sverkerstigen 3 Ödeshög Brand i en pizzeria, önkskar hjälp ac jour Christer Sjöstedt 0706427765
+                                                 - Brand -
+
+1459704 00:19:09 22-11-20 POCSAG-1 NUMERIC 1200  045555707
+
+1294718 00:19:51 22-11-20 POCSAG-4  ALPHA  1200  1836819 /Tempest Sverkers Pizzeria Sverkerstigen 3 Ödeshög Brand i en pizzeria, önkskar hjälp ac jour Christer Sjöstedt 0706427765
+                                                 - Brand -
+
+1459114 00:21:18 22-11-20 POCSAG-4  ALPHA  1200  Kvittera på telnr : 08-4542210
+
+1459540 00:24:23 22-11-20 POCSAG-2  ALPHA  1200  xY5älO?Uy?Y?"??K,?H?Il@,ÅcK;O??.ÄS<,jäsAÅ5Bc"xH7??89?zKt??å^S??R?~ CV3Wf-gjf?0?2g-at??jpzS5?E?#-sEwFL?sn?q??~?:.jt@2. P??W1Qm)$?wi?
+                                                 +,p?u7#ap ?biO
+
+1276813 00:34:05 22-11-20 POCSAG-4  ALPHA  1200  2022-11-20 00:33:23?
+                                                 Aktivt?
+                                                 Filtrering - VOSFG01-LT401/I?
+                                                 Nivå spolvattenreservoar PV - Låg larmgräns underskriden
+
+1334065 00:35:02 22-11-20 POCSAG-4  ALPHA  1200  00:31:52 A?
+                                                 BG_TM1001?
+                                                 Temp, Isoleringshuv SV1020?
+                                                 LO_LO_ALM?
+                                                 Värde: 0.59183 Gräns: 1 A=>0 B=>1
+
+1276813 00:35:05 22-11-20 POCSAG-4  ALPHA  1200  2022-11-20 00:33:23?
+                                                 Aktivt?
+                                                 Filtrering - VOSFG01-LT401/I?
+                                                 Nivå spolvattenreservoar PV - Låg larmgräns underskriden
+
+1334065 00:36:02 22-11-20 POCSAG-4  ALPHA  1200  00:31:52 A?
+                                                 BG_TM1001?
+                                                 Temp, Isoleringshuv SV1020?
+                                                 LO_LO_ALM?
+                                                 Värde: 0.59183 Gräns: 1 A=>0 B=>1
+
+1332476 00:40:25 22-11-20 POCSAG-1 NUMERIC 1200  1351
+
+1334721 00:40:30 22-11-20 POCSAG-4  ALPHA  1200  N028_40/20-KV-RELÄSKYDD-UTLÖST RD 40/20 kV RELÄSKYDD UTLÖST CFN OK 2022-11-20 00:43:18
+
+1334721 00:40:47 22-11-20 POCSAG-4  ALPHA  1200  N028_RD22-IO>-UTLÖST RD22 Io> UTLÖST CFN OK 2022-11-20 00:43:39
+
+1334721 00:41:30 22-11-20 POCSAG-4  ALPHA  1200  N028_40/20-KV-RELÄSKYDD-UTLÖST RD 40/20 kV RELÄSKYDD UTLÖST CFN OK 2022-11-20 00:43:18
+
+1334721 00:41:47 22-11-20 POCSAG-4  ALPHA  1200  N028_RD22-IO>-UTLÖST RD22 Io> UTLÖST CFN OK 2022-11-20 00:43:39
+
+1334721 00:42:29 22-11-20 POCSAG-4  ALPHA  1200  N028_RD22-S RD22-S CFN FRÅN 2022-11-20 00:40:56
+
+1332476 00:42:37 22-11-20 POCSAG-1 NUMERIC 1200  1350
+
+1334721 00:43:29 22-11-20 POCSAG-4  ALPHA  1200  N028_RD22-S RD22-S CFN FRÅN 2022-11-20 00:40:56
+
+0634802 00:45:32 22-11-20 POCSAG-1 NUMERIC 1200  092014830
+1350125 00:52:39 22-11-20 POCSAG-1 NUMERIC 1200  0480709
+
+1341479 00:56:18 22-11-20 POCSAG-4  ALPHA  1200  Larm från Anderstorpskolan
+                                                 AOS_A_LARM
+                                                 ANSKA_KA6_LARM
+                                                 20 nov 2022 00.55.48 CET
+                                                 Text:
+                                                 Utlöst
+
+1459043 01:06:04 22-11-20 POCSAG-4  ALPHA  1200  Resurslarm DRH
+                                                 Talgr : Jönk RAPS-92
+                                                 Prio : 1
+                                                 Hot om suicid
+                                                 Övrigt
+                                                 Stålvägen 11A
+                                                 Vetlanda
+                                                 F4000
+                                                 Händelsebeskrivning : Hotar att skjuta sig. Är jägare, har tillgång till vapen men inget med sig just nu
+                                                 Bakom MC guiden
+                                                 N=6363426 E=504664 
+                                                 Knuten resurs: : PolisÖst
+                                                 Knuten resurs: : 243-4010
+                                                 Knuten resurs: : 243-4080
+                                                 - Suicid -
+
+0570804 01:16:24 22-11-20 POCSAG-1 NUMERIC 1200  00000055
+
+1459542 01:29:39 22-11-20 POCSAG-2  ALPHA  1200  U<t8o<_?3ö_+DÅ?öt?Yh=?aQöY?/?Å??=?CH'o??cwb%=.7?*x?B0??h?WU?e??qU-)?SR$TÖNn6A&D???@??
+
+0570804 01:33:33 22-11-20 POCSAG-1 NUMERIC 1200  00000055
+
+1347464 01:37:01 22-11-20 POCSAG-4  ALPHA  1200  2022-11-20 01:16:09 AKTIVT SÖRBYN - LARM Högt PH
+
+1458360 01:39:27 22-11-20 POCSAG-4  ALPHA  1200  FORSBACKEN LARM             DAMMNIVÅ
+
+1457985 01:44:53 22-11-20 POCSAG-4  ALPHA  1200  2012-10-30 15:58:07 H2-222 Kortslutning I>> NORMAL
+
+1457985 01:45:01 22-11-20 POCSAG-4  ALPHA  1200  2012-10-30 15:58:07 H2-222 Överström I> NORMAL
+
+1457985 01:45:10 22-11-20 POCSAG-4  ALPHA  1200  2012-10-30 15:58:07 H2-222 Utlöst Dvärgbrytare Motor NORMAL
+
+1347418 01:45:11 22-11-20 POCSAG-1 NUMERIC 1200  4444
+
+1459804 01:45:20 22-11-20 POCSAG-4  ALPHA  1200  Trafikolycka - singel Personbil Övrigt:Ärendenr: 16:3367467:2?
+                                                 SOS: Jönköping?
+                                                 2022-11-20 01:39:51?
+                                                 Räddning?
+                                                 Prio: 1?
+                                                 Trafikolycka - singel?
+                                                 Personbil?
+                                                 Övrigt?
+                                                 1 pb gått av vägen?
+                                                 Rv 47?
+                                                 österut?
+                                                 Sjunnen?
+                                                 Vetlanda- DRH?
+                                                 Kommun: Vetlanda?
+                                                 PosRef: 0?
+                                                 Pos: 6367540, 1461668?
+                                                 ?
+                                                 SOS Alarm - Ett tryggare Sverige för alla
+                                                 - Personbil -
+
+1457985 01:45:23 22-11-20 POCSAG-4  ALPHA  1200  2012-10-30 15:58:07 H2-222 Tryckvakt SF6-Gas utlöst NORMAL
+
+1457985 01:45:26 22-11-20 POCSAG-4  ALPHA  1200  2012-10-30 15:58:07 H2-222 Allvarligt fel i reläskydd NORMAL
+
+1457985 01:45:35 22-11-20 POCSAG-4  ALPHA  1200  2012-10-30 15:58:07 H2-222 Brytarfelsskydd NORMAL
+
+1457985 01:45:53 22-11-20 POCSAG-4  ALPHA  1200  2012-10-30 15:58:07 H2-222 Kortslutning I>> NORMAL
+
+1457985 01:46:01 22-11-20 POCSAG-4  ALPHA  1200  2012-10-30 15:58:07 H2-222 Överström I> NORMAL
+
+1457985 01:46:10 22-11-20 POCSAG-4  ALPHA  1200  2012-10-30 15:58:07 H2-222 Utlöst Dvärgbrytare Motor NORMAL
+
+1347418 01:46:11 22-11-20 POCSAG-1 NUMERIC 1200  4444
+
+1459804 01:46:20 22-11-20 POCSAG-4  ALPHA  1200  Trafikolycka - singel Personbil Övrigt:Ärendenr: 16:3367467:2?
+                                                 SOS: Jönköping?
+                                                 2022-11-20 01:39:51?
+                                                 Räddning?
+                                                 Prio: 1?
+                                                 Trafikolycka - singel?
+                                                 Personbil?
+                                                 Övrigt?
+                                                 1 pb gått av vägen?
+                                                 Rv 47?
+                                                 österut?
+                                                 Sjunnen?
+                                                 Vetlanda- DRH?
+                                                 Kommun: Vetlanda?
+                                                 PosRef: 0?
+                                                 Pos: 6367540, 1461668?
+                                                 ?
+                                                 SOS Alarm - Ett tryggare Sverige för alla
+                                                 - Personbil -
+
+1457985 01:46:22 22-11-20 POCSAG-4  ALPHA  1200  2012-10-30 15:58:07 H2-222 Tryckvakt SF6-Gas utlöst NORMAL
+
+1457985 01:46:26 22-11-20 POCSAG-4  ALPHA  1200  2012-10-30 15:58:07 H2-222 Allvarligt fel i reläskydd NORMAL
+
+1457985 01:46:35 22-11-20 POCSAG-4  ALPHA  1200  2012-10-30 15:58:07 H2-222 Brytarfelsskydd NORMAL
+
+1347418 01:47:44 22-11-20 POCSAG-1 NUMERIC 1200  4444
+
+1459337 01:53:07 22-11-20 POCSAG-4  ALPHA  1200  IRIS Mobilt Larm
+                                                 2022-11-20  01:52:48    H ORI   Inbrottsöarm DC/Serverrum                             Utlöst
+
+1459337 01:53:12 22-11-20 POCSAG-4  ALPHA  1200  IRIS Mobilt Larm
+                                                 2022-11-20  01:52:54    H ORI   Inbrottsöarm DC/Serverrum                             Utlöst
+
+1458360 01:55:15 22-11-20 POCSAG-4  ALPHA  1200  FORSBACKEN LARM             DAMMNIVÅ
+
+1357892 01:55:46 22-11-20 POCSAG-1 NUMERIC 1200  87048
+
+1458360 01:56:15 22-11-20 POCSAG-4  ALPHA  1200  FORSBACKEN LARM             DAMMNIVÅ
+
+1357892 01:56:46 22-11-20 POCSAG-1 NUMERIC 1200  87048
+
+1347464 01:59:57 22-11-20 POCSAG-4  ALPHA  1200  2022-11-20 01:39:04 AKTIVT SÖRBYN - ÅTERSTÄLLT Högt PH
+
+0619413 02:02:19 22-11-20 POCSAG-4  ALPHA  1200  A
+                                                 RYSAV
+                                                 20/11 02:01
+                                                 <RYSAV.KOMFEL-LaKFel>
+                                                 SPS RYSSBY KOMFEL
+
+1458360 02:10:57 22-11-20 POCSAG-4  ALPHA  1200  FORSBACKEN LARM             DAMMNIVÅ
+
+0619413 02:22:18 22-11-20 POCSAG-4  ALPHA  1200  A
+                                                 RYSAV
+                                                 20/11 02:01
+                                                 <RYSAV.KOMFEL-LaKFel>
+                                                 SPS RYSSBY KOMFEL
+
+1458360 02:26:45 22-11-20 POCSAG-4  ALPHA  1200  FORSBACKEN LARM             DAMMNIVÅ
+
+1459546 02:28:48 22-11-20 POCSAG-2  ALPHA  1200  Ä?'P?
+
+1459558 02:30:45 22-11-20 POCSAG-1 NUMERIC 1200  626300
+
+1459546 02:32:06 22-11-20 POCSAG-2  ALPHA  1200  9Ä?!(pQOn?I
+                                                 c5??~?ä+b9?>?P+a?t4+?u24R0#6???u?.k?!y?(åow&V#6u? 8??1T:78xRH,N"Cv'+????^p-ti0R???5<?sSÄc?O,*
+
+1459546 02:33:06 22-11-20 POCSAG-2  ALPHA  1200  ?2ss?
+                                                 >?G?28?UÄTj?aSOU 6D*1åQ/?Pcgy3Z1dN"k?XJU???.:?ET?MdeEÖudF?Ufn^a?#fDQ?Z8hEH??H77!rM??J;?JX?5?Bg?#DO?
+
+1357312 02:39:14 22-11-20 POCSAG-4  ALPHA  1200  Från: Active.Expertsiver.se
+                                                 Ämne: Failure:  C:LACTAL  Lactalis - Grid - Appstatus - Prod - NATT ASSIGNEDTO:SPECIALISTS POWER 
+                                                 Message from IACTX-PRD01 on iVer?
+                                                 22-11-20 02:38:44?
+                                                 ?
+                                                 Notes::?
+                                                      Url?
+                                                 http://sealm3.se.lactadom.ad:19007/grid/status.html?
+                                                 Item:?
+                                                      C:LACTAL  Lactalis - Grid - Appstatus - Prod - NATT?
+                                                 Result:?
+                                                     Failure?
+                                                     5:22024?
+                                                 Explanation:?
+                                                     Movex/M3 not responding
+
+1357312 02:42:59 22-11-20 POCSAG-4  ALPHA  1200  Från: Active.Expertsiver.se
+                                                 Ämne: Failure:  C:LACTAL  Lactalis - Grid - Autojobs - Prod - NATT ASSIGNEDTO:SPECIALISTS POWER 
+                                                 Message from IACTX-PRD01 on iVer?
+                                                 22-11-20 02:42:31?
+                                                 ?
+                                                 Notes::?
+                                                      Dokumentation: SOP5984?
+                                                 Item:?
+                                                      C:LACTAL  Lactalis - Grid - Autojobs - Prod - NATT?
+                                                 Result:?
+                                                     Failure?
+                                                     3:22024?
+                                                 Explanation:?
+                                                     Movex/M3 not responding when reading data.
+
+1458948 02:43:08 22-11-20 POCSAG-4  ALPHA  1200  2022-11-20:02:42:47 A-Larm ?ORVV?Fel turbiditet
+
+1669036 02:43:19 22-11-20 POCSAG-1 NUMERIC 1200  TONE ONLY
+
+1458948 02:44:08 22-11-20 POCSAG-4  ALPHA  1200  2022-11-20:02:42:47 A-Larm ?ORVV?Fel turbiditet
+
+1459540 02:47:55 22-11-20 POCSAG-2  ALPHA  1200  q?_F:xchx? @??7J&?#%XOXd?Ä)u?GTGtHZL?Wx-2??ÖAtvX??B?h%?"q2????&Nåz??x<Ä*ÅÄ=??H4Y.??m!wG
+
+1459540 02:48:01 22-11-20 POCSAG-2  ALPHA  1200  (l??6Å?0?bn<*<?ö.ÅQ?VU=?ym_CQ~h%??/ög?J??Gs%#?PW)=^?Yz?ueLPÖe?UF;mÖc+eA?Ä
+                                                 S15*l~åndAöd?_?<??iv?L9??OA&7SHB??B0IHXS-y6C/+&UwLB3#Hk?;nF&??
+
+1458975 02:55:12 22-11-20 POCSAG-4  ALPHA  1200  BUSSDEPÅ B-LARM
+
+1459342 03:00:28 22-11-20 POCSAG-2  ALPHA  1200  
+
+1457924 03:09:48 22-11-20 POCSAG-4  ALPHA  1200  2022-11-20 03:09:14   1A-TA03-GT8 Frysvakt
+
+1459114 03:14:17 22-11-20 POCSAG-4  ALPHA  1200  Kvittera på telnr : 08-4542210
+
+1457599 03:19:24 22-11-20 POCSAG-4  ALPHA  1200  SJUKLARM
+
+1459114 03:21:02 22-11-20 POCSAG-4  ALPHA  1200  Kvittera på telnr : 08-4542210
+
+1457599 03:21:03 22-11-20 POCSAG-4  ALPHA  1200  SJUKLARM
+
+1459804 03:22:44 22-11-20 POCSAG-4  ALPHA  1200  Automatlarm Brand:Ärendenr: 16:3367484:1?
+                                                 SOS: Jönköping?
+                                                 2022-11-20 03:17:17?
+                                                 Räddning?
+                                                 Prio: 1?
+                                                 Automatlarm?
+                                                 Brand?
+                                                 ?
+                                                 ?
+                                                 Af Klerckers Väg 14, Jöransberg?
+                                                 Larmnr: ***?
+                                                 Huskvarna?
+                                                 Huskvarna- DRH?
+                                                 Kommun: Jönköping?
+                                                 PosRef: 0?
+                                                 Pos: 6406478, 1410050?
+                                                 ?
+                                                 SOS Alarm - Ett tryggare Sverige för alla
+                                                 - Brand -
+
+1457599 03:22:46 22-11-20 POCSAG-4  ALPHA  1200  SJUKLARM
+
+1459804 03:23:44 22-11-20 POCSAG-4  ALPHA  1200  Automatlarm Brand:Ärendenr: 16:3367484:1?
+                                                 SOS: Jönköping?
+                                                 2022-11-20 03:17:17?
+                                                 Räddning?
+                                                 Prio: 1?
+                                                 Automatlarm?
+                                                 Brand?
+                                                 ?
+                                                 ?
+                                                 Af Klerckers Väg 14, Jöransberg?
+                                                 Larmnr: ***?
+                                                 Huskvarna?
+                                                 Huskvarna- DRH?
+                                                 Kommun: Jönköping?
+                                                 PosRef: 0?
+                                                 Pos: 6406478, 1410050?
+                                                 ?
+                                                 SOS Alarm - Ett tryggare Sverige för alla
+                                                 - Brand -
+
+1459686 03:23:49 22-11-20 POCSAG-4  ALPHA  1200  Kvittera ärendet på: 0173-17500
+                                                 Fastigh.jour el
+                                                 Händelsebeskrivning : 
+                                                 H.beskr : Helt utan el, säger att säkringsskåpet i lägenheten är låst med en nyckel så han kan inte kontrollera om dem är ok.
+                                                 Björnkullaringen 12, lgh 01801, vån 1, Huddinge
+                                                 Huddinge
+                                                 Ä Id : 2
+                                                 Best : Ariel Gutierrez
+                                                 Telefonnummer : 0735853408
+
+1457599 03:24:21 22-11-20 POCSAG-4  ALPHA  1200  SJUKLARM
+
+1459686 03:24:49 22-11-20 POCSAG-4  ALPHA  1200  Kvittera ärendet på: 0173-17500
+                                                 Fastigh.jour el
+                                                 Händelsebeskrivning : 
+                                                 H.beskr : Helt utan el, säger att säkringsskåpet i lägenheten är låst med en nyckel så han kan inte kontrollera om dem är ok.
+                                                 Björnkullaringen 12, lgh 01801, vån 1, Huddinge
+                                                 Huddinge
+                                                 Ä Id : 2
+                                                 Best : Ariel Gutierrez
+                                                 Telefonnummer : 0735853408
+
+1457599 03:25:59 22-11-20 POCSAG-4  ALPHA  1200  SJUKLARM
+
+1329758 03:39:03 22-11-20 POCSAG-1 NUMERIC 1200  0313341293
+
+1458057 03:39:19 22-11-20 POCSAG-4  ALPHA  1200  Kontakta SOS omgående 031-7031311
+
+1353216 03:39:58 22-11-20 POCSAG-1 NUMERIC 1200  063108180
+1329758 03:40:03 22-11-20 POCSAG-1 NUMERIC 1200  0313341293
+
+1458057 03:40:19 22-11-20 POCSAG-4  ALPHA  1200  Kontakta SOS omgående 031-7031311
+
+1353216 03:40:58 22-11-20 POCSAG-1 NUMERIC 1200  063108180
+
+1459008 03:45:47 22-11-20 POCSAG-4  ALPHA  1200  19 Kontakta LC  031-703 13 94
+
+1347443 03:50:20 22-11-20 POCSAG-4  ALPHA  1200  FS Finnboda LARM             LARMKOD 88888888
+
+0766100 04:09:49 22-11-20 POCSAG-1 NUMERIC 1200  28842298
+1356752 04:17:41 22-11-20 POCSAG-1 NUMERIC 1200  0104352500
+
+1291405 04:27:46 22-11-20 POCSAG-4  ALPHA  1200  2022-11-20 04:26:36?
+                                                 AKTIVT?
+                                                 K2341BQ04//CO rökgas/New
+
+1301272 04:30:50 22-11-20 POCSAG-1 NUMERIC 1200  46733006258
+
+1459114 04:41:16 22-11-20 POCSAG-4  ALPHA  1200  Kvittera på telnr : 08-4542210
+
+1398277 04:52:37 22-11-20 POCSAG-1 NUMERIC 1200  033207999
+
+1291405 04:55:44 22-11-20 POCSAG-4  ALPHA  1200  2022-11-20 04:54:34?
+                                                 AKTIVT?
+                                                 K651CO//CO emission P1/New
+
+1398277 05:14:33 22-11-20 POCSAG-1 NUMERIC 1200  033207999
+
+1457599 05:15:52 22-11-20 POCSAG-4  ALPHA  1200  SJUKLARM
+
+1331380 05:20:52 22-11-20 POCSAG-4  ALPHA  1200  2022-11-20 05:19:37?
+                                                 AKTIVT   ?
+                                                 KLH-BB04-GF01-NL/BOD/Larm lågt flöde
+
+1345632 05:23:47 22-11-20 POCSAG-4  ALPHA  1200  A-larm Holland Vislanda
+
+1339044 05:26:37 22-11-20 POCSAG-1 NUMERIC 1200  0490-10408
+0717100 05:37:19 22-11-20 POCSAG-1 NUMERIC 1200  40770001
+
+1458684 05:42:35 22-11-20 POCSAG-4  ALPHA  1200  Kontakta SOS 0490-104 08
+                                                 Objekt : 
+                                                 Typ av larm : 
+                                                 Address : Mommehåls Skola 1
+                                                 Ort : Törnsfall
+                                                 Händelse : El
+                                                 Helt utan
+
+1356379 05:46:46 22-11-20 POCSAG-1 NUMERIC 1200  063108180
+
+1459114 05:49:19 22-11-20 POCSAG-4  ALPHA  1200  Kvittera på telnr : 08-4542210
+
+1345632 05:53:48 22-11-20 POCSAG-4  ALPHA  1200  A-larm Holland Vislanda
+
+1459141 05:55:42 22-11-20 POCSAG-2  ALPHA  1200  kIckrdä??2&T?0hIj-3M?O`x2MZ?ö/1n6?745N2åmKpl?$WV*?3xÅ^#??*JA
+
+0717100 05:57:41 22-11-20 POCSAG-1 NUMERIC 1200  40770001
+1356379 05:58:10 22-11-20 POCSAG-1 NUMERIC 1200  063108180
+
+1357933 06:02:12 22-11-20 POCSAG-4  ALPHA  1200  A
+                                                 SJR10.T239.MV
+                                                 20/11 06:00
+                                                 Låg Temp VS1-framledning VVX (VS1-GT10)
+
+0717100 06:04:38 22-11-20 POCSAG-1 NUMERIC 1200  40770001
+
+0633048 06:17:24 22-11-20 POCSAG-4  ALPHA  1200  A-Larm
+
+1459114 06:19:16 22-11-20 POCSAG-4  ALPHA  1200  Kvittera på telnr : 08-4542210
+
+1459804 06:24:36 22-11-20 POCSAG-4  ALPHA  1200  Automatlarm Brand:Ärendenr: 16:3367504:1?
+                                                 SOS: Jönköping?
+                                                 2022-11-20 06:19:07?
+                                                 Räddning?
+                                                 Prio: 1?
+                                                 Automatlarm?
+                                                 Brand?
+                                                 ?
+                                                 ?
+                                                 Bröderna Anderssons Möbelfabrik?
+                                                 Larmnr:10?
+                                                 Ekenässjön?
+                                                 Vetlanda- DRH?
+                                                 Kommun: Vetlanda?
+                                                 PosRef: 0?
+                                                 Pos: 6372612, 1453767?
+                                                 ?
+                                                 SOS Alarm - Ett tryggare Sverige för alla
+                                                 - Brand -
+
+1459804 06:27:23 22-11-20 POCSAG-4  ALPHA  1200  Automatlarm Brand:Ärendenr: 16:3367505:1?
+                                                 SOS: Jönköping?
+                                                 2022-11-20 06:21:57?
+                                                 Räddning?
+                                                 Prio: 1?
+                                                 Automatlarm?
+                                                 Brand?
+                                                 ?
+                                                 ?
+                                                 Dundret Äldreboende, Boktryckargatan ***?
+                                                 Larmnr 161?
+                                                 Jönköping?
+                                                 Jönköping- DRH?
+                                                 Kommun: Jönköping?
+                                                 PosRef: 0?
+                                                 Pos: 6407167, 1402984?
+                                                 ?
+                                                 SOS Alarm - Ett tryggare Sverige för alla
+                                                 - Brand -
+
+0717100 06:29:48 22-11-20 POCSAG-1 NUMERIC 1200  40770001
+
+1459044 06:30:17 22-11-20 POCSAG-4  ALPHA  1200  11/20/22 06:30:00;;Automatiskt test av SMS sändare; Ack: 1890
+
+1331380 06:30:40 22-11-20 POCSAG-4  ALPHA  1200  2022-11-20 06:29:30?
+                                                 AKTIVT   ?
+                                                 Ronehamn-26/3A166/Högt tryck KOMPR
+
+1459044 06:31:17 22-11-20 POCSAG-4  ALPHA  1200  11/20/22 06:30:00;;Automatiskt test av SMS sändare; Ack: 1890
+
+1331380 06:31:40 22-11-20 POCSAG-4  ALPHA  1200  2022-11-20 06:29:30?
+                                                 AKTIVT   ?
+                                                 Ronehamn-26/3A166/Högt tryck KOMPR
+
+1353684 06:34:03 22-11-20 POCSAG-4  ALPHA  1200  DC:2022-11-20 06:32:26 66 TB17 MOT 2199 BIDALITE FRÅN CFN TBD010IM
+
+1356615 06:34:41 22-11-20 POCSAG-4  ALPHA  1200  B-LARM  TVÄTTMAN
+
+1356408 06:34:58 22-11-20 POCSAG-1 NUMERIC 1200  0104706990
+
+1353684 06:35:03 22-11-20 POCSAG-4  ALPHA  1200  DC:2022-11-20 06:32:26 66 TB17 MOT 2199 BIDALITE FRÅN CFN TBD010IM
+
+1356615 06:35:41 22-11-20 POCSAG-4  ALPHA  1200  B-LARM  TVÄTTMAN
+
+1356408 06:35:58 22-11-20 POCSAG-1 NUMERIC 1200  0104706990
+
+1353684 06:39:00 22-11-20 POCSAG-4  ALPHA  1200  DC:2022-11-20 06:32:26 66 TB17 MOT 2199 BIDALITE FRÅN CFN TBD010IM
+
+0633048 06:41:15 22-11-20 POCSAG-4  ALPHA  1200  A-Larm
+
+0619413 06:42:15 22-11-20 POCSAG-4  ALPHA  1200  A
+                                                 RYSAV
+                                                 20/11 06:41
+                                                 <RYSAV.KOMFEL-LaKFel>
+                                                 SPS RYSSBY KOMFEL
+
+0633048 06:42:15 22-11-20 POCSAG-4  ALPHA  1200  A-Larm
+
+0619413 06:43:20 22-11-20 POCSAG-4  ALPHA  1200  A
+                                                 RYSAV
+                                                 20/11 06:41
+                                                 <RYSAV.KOMFEL-LaKFel>
+                                                 SPS RYSSBY KOMFEL
+
+1353684 06:43:57 22-11-20 POCSAG-4  ALPHA  1200  DC:2022-11-20 06:42:18 66 TB17 MOT 2199 BIDALITE FRÅN CFN TBD010IM
+
+0553340 06:47:12 22-11-20 POCSAG-1 NUMERIC 1200  0707784357
+
+1353906 06:48:16 22-11-20 POCSAG-4  ALPHA  1200  Prio : 1
+                                                 Upps RAPS-05
+                                                 E18
+                                                 C30NV
+                                                 Trafikolycka - singel
+                                                 Personbil
+                                                 Vägbeskrivning : 
+                                                 Händelsebeskrivning : 
+                                                 221-3010
+                                                 - Personbil -
+
+0717100 06:48:21 22-11-20 POCSAG-1 NUMERIC 1200  40770001
+
+1353906 06:49:16 22-11-20 POCSAG-4  ALPHA  1200  Prio : 1
+                                                 Upps RAPS-05
+                                                 E18
+                                                 C30NV
+                                                 Trafikolycka - singel
+                                                 Personbil
+                                                 Vägbeskrivning : 
+                                                 Händelsebeskrivning : 
+                                                 221-3010
+                                                 - Personbil -
+
+1459542 06:54:44 22-11-20 POCSAG-2  ALPHA  1200  4>8??IT?l.ö)?5:r"6_Qk+??ÖN?äÖ?yi.T7
+
+1356615 07:01:57 22-11-20 POCSAG-4  ALPHA  1200  B-LARM  TVÄTTMAN
+
+1353684 07:04:08 22-11-20 POCSAG-4  ALPHA  1200  DC:2022-11-20 07:02:33 66 TB17 MOT 2199 BIDALITE FRÅN CFN TBD010IM
+
+1357312 07:05:02 22-11-20 POCSAG-4  ALPHA  1200  Från: Active.Expertsiver.se
+                                                 Ämne: Failure:  c:SMDLOG  SMD - Grid - Appstatus - Prod - Helg ASSIGNEDTO:SPECIALISTS POWER 
+                                                 Message from IACTX-PRD01 on iVer?
+                                                 22-11-20 07:04:35?
+                                                 ?
+                                                 Notes::?
+                                                      LLARMM3STATUS%20OR%20LARMGRID?
+                                                  (exkluderade 52947)?
+                                                 Page?
+                                                 MangoServer has Status Not OK??
+                                                 SMD PRD - Management Pages:?
+                                                 https://ksdas402.smdm3.local:20108/grid/ui/?
+                                                 Gridlogin... logga på med id M3Support
+
+1353684 07:05:08 22-11-20 POCSAG-4  ALPHA  1200  DC:2022-11-20 07:02:33 66 TB17 MOT 2199 BIDALITE FRÅN CFN TBD010IM
+
+1353684 07:06:13 22-11-20 POCSAG-4  ALPHA  1200  DC:2022-11-20 07:04:46 230V LARM MLF10 602 BODHYLTAN TILL CFN L602002EI
+
+1353684 07:06:16 22-11-20 POCSAG-4  ALPHA  1200  DC:2022-11-20 07:04:46 230V LARM LF10 618 HALLASJÖ TILL CFN L618002EI
+
+1353684 07:07:13 22-11-20 POCSAG-4  ALPHA  1200  DC:2022-11-20 07:04:46 230V LARM MLF10 602 BODHYLTAN TILL CFN L602002EI
+
+1353684 07:07:16 22-11-20 POCSAG-4  ALPHA  1200  DC:2022-11-20 07:04:46 230V LARM LF10 618 HALLASJÖ TILL CFN L618002EI
+
+1357729 07:08:14 22-11-20 POCSAG-1 NUMERIC 1200  044200400
+
+1353684 07:09:06 22-11-20 POCSAG-4  ALPHA  1200  DC:2022-11-20 07:02:33 66 TB17 MOT 2199 BIDALITE FRÅN CFN TBD010IM
+
+1357729 07:09:14 22-11-20 POCSAG-1 NUMERIC 1200  044200400
+
+1357312 07:09:27 22-11-20 POCSAG-4  ALPHA  1200  Från: Active.Expertsiver.se
+                                                 Ämne: Failure:  c:BHAFOR  BHARAT - ASKILSTA - MSGW (SLA2/Helg7-21) ASSIGNEDTO:SPECIALISTS POWER 
+                                                 Message from IACTX-PRD01 on iVer?
+                                                 22-11-20 07:09:04?
+                                                 ?
+                                                 Notes::?
+                                                      ?
+                                                 Item:?
+                                                      c:BHAFOR  BHARAT - ASKILSTA - MSGW (SLA2/Helg7-21)?
+                                                 Result:?
+                                                     Failure?
+                                                     1?
+                                                 Explanation:?
+                                                     1 Job(s) in MSGW  003993/MOVEX/DCS001MI  - I/O operation was applied to closed file MMM9
+
+1353684 07:10:06 22-11-20 POCSAG-4  ALPHA  1200  DC:2022-11-20 07:02:33 66 TB17 MOT 2199 BIDALITE FRÅN CFN TBD010IM
+
+1293190 07:10:17 22-11-20 POCSAG-4  ALPHA  1200  2022 11 20 07:08:02 AKTIVT
+                                                 101 H3 52 0200 NODK LF
+                                                 Kompressor H33004A  Nödkyla aktiverad
+
+1357729 07:14:25 22-11-20 POCSAG-1 NUMERIC 1200  044200400
+1332476 07:24:16 22-11-20 POCSAG-1 NUMERIC 1200  1351
+
+0619413 07:25:17 22-11-20 POCSAG-4  ALPHA  1200  A
+                                                 RYSAV
+                                                 20/11 07:24
+                                                 <RYSAV.KOMFEL-LaKFel>
+                                                 SPS RYSSBY KOMFEL
+
+1293066 07:26:43 22-11-20 POCSAG-1 NUMERIC 1200  0243497381
+
+1458684 07:27:00 22-11-20 POCSAG-4  ALPHA  1200  Kontakta SOS 0490-104 08
+                                                 Objekt : 
+                                                 Typ av larm : 
+                                                 Address : Ödängsvägen 18
+                                                 Ort : Gunnebo
+                                                 Händelse : Eldistribution
+                                                 Helt utan
+
+1332476 07:27:24 22-11-20 POCSAG-1 NUMERIC 1200  1350
+
+1458684 07:28:00 22-11-20 POCSAG-4  ALPHA  1200  Kontakta SOS 0490-104 08
+                                                 Objekt : 
+                                                 Typ av larm : 
+                                                 Address : Ödängsvägen 18
+                                                 Ort : Gunnebo
+                                                 Händelse : Eldistribution
+                                                 Helt utan
+
+1458811 07:30:55 22-11-20 POCSAG-1 NUMERIC 1200  020380380
+
+1291405 07:34:27 22-11-20 POCSAG-4  ALPHA  1200  2022-11-20 07:33:15?
+                                                 AKTIVT?
+                                                 PEH782BT003//Tempgivare utg. köldbärare/New
+
+1357729 07:35:07 22-11-20 POCSAG-1 NUMERIC 1200  044200400
+1458811 07:38:06 22-11-20 POCSAG-1 NUMERIC 1200  020380380
+
+1355350 07:39:01 22-11-20 POCSAG-4  ALPHA  1200  Från: nagiosNagiosXI02.intra.genericmobile.se
+                                                 Ämne: ** PROBLEM Service Alert: REDWEB02/TAS/P90 UCP TCP port 10090 is CRITICAL **
+                                                 ***** Nagios Monitor XI Alert *****?
+                                                 ?
+                                                 Notification Type: PROBLEM?
+                                                 ?
+                                                 Service: TAS/P90 UCP TCP port 10090?
+                                                 Host: REDWEB02?
+                                                 Address: 172.19.90.12?
+                                                 State: CRITICAL?
+                                                 ?
+                                                 Date/Time: Sun Nov 20 07:38:40 CET 2022?
+                                                 ?
+                                                 Additional Info:?
+                                                 ?
+                                                 CRITICAL - Socket timeout
+
+1458811 07:39:06 22-11-20 POCSAG-1 NUMERIC 1200  020380380
+1356379 07:39:58 22-11-20 POCSAG-1 NUMERIC 1200  063108180
+
+1331333 07:42:33 22-11-20 POCSAG-4  ALPHA  1200  2022-11-20 07:41:06?
+                                                 AKTIVT   ?
+                                                 SL-SIL-Profibus-/SL-SIL Profibusfel/
+
+1459741 07:43:09 22-11-20 POCSAG-1 NUMERIC 1200  0470-204 42
+
+1459546 07:43:45 22-11-20 POCSAG-2  ALPHA  1200  ?fZpv>?E)?+qZ?n)kgF?>?$F?wnI8?B
+                                                 pfå?N'????v3+w?8?iw9?D&.öY>HuKX??srFl?J??Ö-<$J?l G??eruxG???'äfPH,?%tBW(^????
+
+1459741 07:44:09 22-11-20 POCSAG-1 NUMERIC 1200  0470-204 42
+
+1459546 07:44:45 22-11-20 POCSAG-2  ALPHA  1200  $ljos?q ÄG"uk=3e?Z?/? "9AZv$?!O?!>S??+??H0-Rä$`H??p?lHg8 =5??
+                                                 ??YfI*??ä?Eö0å?ö5+Kx9iFE7??Ö8d@?5?1jC$?2Äv?D8.`
+
+1301272 07:45:08 22-11-20 POCSAG-1 NUMERIC 1200  0725008720
+
+1458050 07:49:46 22-11-20 POCSAG-4  ALPHA  1200  GASANL. LARM : L2_HT, 2022-11-20 07:49:14
+
+2007668 07:50:18 22-11-20 POCSAG-1 NUMERIC 1200  TONE ONLY
+
+1458050 07:50:46 22-11-20 POCSAG-4  ALPHA  1200  GASANL. LARM : L2_HT, 2022-11-20 07:49:14
+
+0619413 07:51:18 22-11-20 POCSAG-4  ALPHA  1200  A
+                                                 RYSAV
+                                                 20/11 07:50
+                                                 <RYSAV.KOMFEL-LaKFel>
+                                                 SPS RYSSBY KOMFEL
+
+1355350 07:55:14 22-11-20 POCSAG-4  ALPHA  1200  Från: nagiosNagiosXI02.intra.genericmobile.se
+                                                 Ämne: ** PROBLEM Service Alert: REDWEB02/Last received EMI is CRITICAL **
+                                                 ***** Nagios Monitor XI Alert *****?
+                                                 ?
+                                                 Notification Type: PROBLEM?
+                                                 ?
+                                                 Service: Last received EMI?
+                                                 Host: REDWEB02?
+                                                 Address: 172.19.90.12?
+                                                 State: CRITICAL?
+                                                 ?
+                                                 Date/Time: Sun Nov 20 07:54:53 CET 2022?
+                                                 ?
+                                                 Additional Info:?
+                                                 ?
+                                                 CRITICAL - 1128s ago
+
+1355350 07:59:27 22-11-20 POCSAG-4  ALPHA  1200  Från: nagiosNagiosXI02.intra.genericmobile.se
+                                                 Ämne: ** RECOVERY Service Alert: REDWEB02/TAS/P90 UCP TCP port 10090 is OK **
+                                                 ***** Nagios Monitor XI Alert *****?
+                                                 ?
+                                                 Notification Type: RECOVERY?
+                                                 ?
+                                                 Service: TAS/P90 UCP TCP port 10090?
+                                                 Host: REDWEB02?
+                                                 Address: 172.19.90.12?
+                                                 State: OK?
+                                                 ?
+                                                 Date/Time: Sun Nov 20 07:59:06 CET 2022?
+                                                 ?
+                                                 Additional Info:?
+                                                 ?
+                                                 TCP OK - 0.009 second response time on 172.19.90.
+
+1458684 08:01:11 22-11-20 POCSAG-4  ALPHA  1200  Kontakta SOS 0490-104 08
+                                                 Objekt : G-DLC
+                                                 Typ av larm : Driftlarm
+                                                 Address : Lunnargatan 1
+                                                 Ort : Västervik
+                                                 Händelse : Driftlarm
+
+1356615 08:02:39 22-11-20 POCSAG-4  ALPHA  1200  B-LARM  TVÄTTMAN
+
+1334065 08:04:44 22-11-20 POCSAG-4  ALPHA  1200  05:09:05 B?
+                                                 _AS_DP70_?
+                                                 AS Processluft?
+                                                 KAPACITET?
+                                                 A=>0 B=>1
+
+1355350 08:05:11 22-11-20 POCSAG-4  ALPHA  1200  Från: nagiosNagiosXI02.intra.genericmobile.se
+                                                 Ämne: ** RECOVERY Service Alert: REDWEB02/Last received EMI is OK **
+                                                 ***** Nagios Monitor XI Alert *****?
+                                                 ?
+                                                 Notification Type: RECOVERY?
+                                                 ?
+                                                 Service: Last received EMI?
+                                                 Host: REDWEB02?
+                                                 Address: 172.19.90.12?
+                                                 State: OK?
+                                                 ?
+                                                 Date/Time: Sun Nov 20 08:04:50 CET 2022?
+                                                 ?
+                                                 Additional Info:?
+                                                 ?
+                                                 OK - 21s ago
+
+1459817 08:05:19 22-11-20 POCSAG-4  ALPHA  1200  29 2022-11-20 08:04:53?
+                                                 A  AG_LARM Ur och Skur Förskola, LA1, LA1-GT41:116 No?
+                                                 rr Låg Temp utlöses.
+
+1334065 08:05:44 22-11-20 POCSAG-4  ALPHA  1200  05:09:05 B?
+                                                 _AS_DP70_?
+                                                 AS Processluft?
+                                                 KAPACITET?
+                                                 A=>0 B=>1
+
+1459817 08:06:19 22-11-20 POCSAG-4  ALPHA  1200  29 2022-11-20 08:04:53?
+                                                 A  AG_LARM Ur och Skur Förskola, LA1, LA1-GT41:116 No?
+                                                 rr Låg Temp utlöses.
+
+1459490 08:06:48 22-11-20 POCSAG-1 NUMERIC 1200  040-676 92 91
+0553340 08:07:57 22-11-20 POCSAG-1 NUMERIC 1200  0760061306
+
+1334065 08:09:09 22-11-20 POCSAG-4  ALPHA  1200  07:27:20 B?
+                                                 C_TU1916_I4?
+                                                 Komm-fel RF900:15, Rösbo?
+                                                 DI_ALM?
+                                                 A=>0 B=>1
+
+1334065 08:09:54 22-11-20 POCSAG-4  ALPHA  1200  08:02:20 B?
+                                                 C_TU1916_I4?
+                                                 Komm-fel RF900:15, Rösbo?
+                                                 DI_ALM?
+                                                 A=>0 B=>0
+
+1334065 08:10:09 22-11-20 POCSAG-4  ALPHA  1200  07:27:20 B?
+                                                 C_TU1916_I4?
+                                                 Komm-fel RF900:15, Rösbo?
+                                                 DI_ALM?
+                                                 A=>0 B=>1
+
+1334065 08:10:54 22-11-20 POCSAG-4  ALPHA  1200  08:02:20 B?
+                                                 C_TU1916_I4?
+                                                 Komm-fel RF900:15, Rösbo?
+                                                 DI_ALM?
+                                                 A=>0 B=>0
+
+1458684 08:22:33 22-11-20 POCSAG-4  ALPHA  1200  Kontakta SOS 0490-104 08
+                                                 Objekt : 
+                                                 Typ av larm : 
+                                                 Address : Gunnebo med omnejd
+                                                 Ort : Gunnebo
+                                                 Händelse : Eldistribution
+                                                 Helt utan
+
+1458684 08:29:15 22-11-20 POCSAG-4  ALPHA  1200  Kontakta SOS 0490-104 08
+                                                 Objekt : 
+                                                 Typ av larm : 
+                                                 Address : Gäddeglo Lugnet
+                                                 Ort : 
+                                                 Händelse : Eldistribution
+                                                 Helt utan
+
+1458975 08:36:18 22-11-20 POCSAG-1 NUMERIC 1200  040-676 92 91
+
+1357312 08:37:20 22-11-20 POCSAG-4  ALPHA  1200  Från: Active.Expertsiver.se
+                                                 Ämne: Failure:  C:LACTAL  Lactalis -  SEALM3B - MIMIX Processes - NATT ASSIGNEDTO:SPECIALISTS POWER 
+                                                 Message from IACTX-PRD01 on iVer?
+                                                 22-11-20 08:36:52?
+                                                 ?
+                                                 Notes::?
+                                                      ?
+                                                 Item:?
+                                                      C:LACTAL  Lactalis -  SEALM3B - MIMIX Processes - NATT?
+                                                 Result:?
+                                                     Failure?
+                                                     ?
+                                                 Explanation:?
+                                                     Process inactive  RJLink, Object Send, Object Apply,
+
+1458975 08:37:24 22-11-20 POCSAG-1 NUMERIC 1200  040-676 92 91
+
+1356615 08:38:07 22-11-20 POCSAG-4  ALPHA  1200  B-LARM  TVÄTTMAN
+
+1459542 08:39:04 22-11-20 POCSAG-2  ALPHA  1200  uÅKhtP??m+(?a?h??7?k?O?6MZ+701>?Qm`65G?2lr?pu??Öd)??>"xe?z#BÖD0y2j?i?
+
+1356615 08:39:07 22-11-20 POCSAG-4  ALPHA  1200  B-LARM  TVÄTTMAN
+
+1458684 08:39:47 22-11-20 POCSAG-4  ALPHA  1200  Kontakta SOS 0490-104 08
+                                                 Objekt : 
+                                                 Typ av larm : 
+                                                 Address : Gäddeglo Lugnet
+                                                 Ort : 
+                                                 Händelse : Eldistribution
+                                                 Helt utan
+
+1459542 08:42:45 22-11-20 POCSAG-2  ALPHA  1200  U/Px??fbM?W?U
+
+1457020 08:44:41 22-11-20 POCSAG-4  ALPHA  1200  Bräddning FM2  20/11 08:43
+
+1456804 08:49:27 22-11-20 POCSAG-1 NUMERIC 1200  0102445053
+
+1459686 08:50:36 22-11-20 POCSAG-4  ALPHA  1200  Kvittera ärendet på: 0173-17500
+                                                 Händelsebeskrivning : 
+                                                 H.beskr : Larm vid huvudentr` som går. Varit kortare strömavbrott under natten.
+                                                 Stortorpsvägen 41a, Huddinge
+                                                 Huddinge
+                                                 Ä Id : 2
+                                                 Best : Janne - personal
+                                                 Telefonnummer : 0853535389
+
+1457300 08:54:40 22-11-20 POCSAG-1 NUMERIC 1200  023490488
+
+1459804 08:57:01 22-11-20 POCSAG-4  ALPHA  1200  Trafikolycka - singel Personbil Övrigt:Ärendenr: 16:3367533:2?
+                                                 SOS: Jönköping?
+                                                 2022-11-20 08:51:32?
+                                                 Räddning?
+                                                 Prio: 1?
+                                                 Trafikolycka - singel?
+                                                 Personbil?
+                                                 Övrigt?
+                                                 1 pb, kört av vägen in i staket?
+                                                 Västermogatan 23?
+                                                 ?
+                                                 Värnamo?
+                                                 Värnamo- DRH?
+                                                 Kommun: Värnamo?
+                                                 PosRef: 0?
+                                                 Pos: 6340725, 1393167?
+                                                 ?
+                                                 SOS Alarm - Ett tryggare Sverige för alla
+                                                 - Personbil -
+
+0553340 08:57:54 22-11-20 POCSAG-1 NUMERIC 1200  07600613060760061306
+
+1456892 08:57:57 22-11-20 POCSAG-4  ALPHA  1200  Kontakta Räddningstjänsten
+                                                 0313358693 :
+
+1459804 08:58:01 22-11-20 POCSAG-4  ALPHA  1200  Trafikolycka - singel Personbil Övrigt:Ärendenr: 16:3367533:2?
+                                                 SOS: Jönköping?
+                                                 2022-11-20 08:51:32?
+                                                 Räddning?
+                                                 Prio: 1?
+                                                 Trafikolycka - singel?
+                                                 Personbil?
+                                                 Övrigt?
+                                                 1 pb, kört av vägen in i staket?
+                                                 Västermogatan 23?
+                                                 ?
+                                                 Värnamo?
+                                                 Värnamo- DRH?
+                                                 Kommun: Värnamo?
+                                                 PosRef: 0?
+                                                 Pos: 6340725, 1393167?
+                                                 ?
+                                                 SOS Alarm - Ett tryggare Sverige för alla
+                                                 - Personbil -
+
+1456892 08:58:57 22-11-20 POCSAG-4  ALPHA  1200  Kontakta Räddningstjänsten
+                                                 0313358693 :
+
+1459741 09:02:12 22-11-20 POCSAG-1 NUMERIC 1200  0470-204 42
+
+1357933 09:04:16 22-11-20 POCSAG-4  ALPHA  1200  A
+                                                 SJR11.P703753.TRFEL
+                                                 20/11 09:01
+                                                 P703753 stänger GASV. mm.
+
+1357933 09:04:31 22-11-20 POCSAG-4  ALPHA  1200  A
+                                                 SJR11.P753.MV
+                                                 20/11 09:02
+                                                 Högt tryck
+
+0766107 09:04:38 22-11-20 POCSAG-1 NUMERIC 1200  63967199
+
+1353196 09:05:35 22-11-20 POCSAG-4  ALPHA  1200  A
+                                                 <JOUR_VAT_KVIT_EJ>
+                                                 Jour Vatten kvitterar ej larm
+                                                 20/11 09:03
+
+1355350 09:05:49 22-11-20 POCSAG-4  ALPHA  1200  Från: nagiosNagiosXI02.intra.genericmobile.se
+                                                 Ämne: ** PROBLEM Service Alert: localhost/Last delivered mail2fax is CRITICAL **
+                                                 ***** Nagios Monitor XI Alert *****?
+                                                 ?
+                                                 Notification Type: PROBLEM?
+                                                 ?
+                                                 Service: Last delivered mail2fax?
+                                                 Host: localhost?
+                                                 Address: 127.0.0.1?
+                                                 State: CRITICAL?
+                                                 ?
+                                                 Date/Time: Sun Nov 20 09:05:28 CET 2022?
+                                                 ?
+                                                 Additional Info:?
+                                                 ?
+                                                 CRITICAL - 4204s ago
+
+1459167 09:05:59 22-11-20 POCSAG-1 NUMERIC 1200  0490-10408
+
+1303375 09:06:28 22-11-20 POCSAG-4  ALPHA  1200  2022-11-20 05:08:55?
+                                                 2/Pst Knen/Larm låg nivå pumpsump/ON
+
+1353196 09:06:34 22-11-20 POCSAG-4  ALPHA  1200  A
+                                                 <JOUR_VAT_KVIT_EJ>
+                                                 Jour Vatten kvitterar ej larm
+                                                 20/11 09:03
+
+1459167 09:06:59 22-11-20 POCSAG-1 NUMERIC 1200  0490-10408
+0763090 09:10:03 22-11-20 POCSAG-1 NUMERIC 1200  95276100
+
+1355350 09:10:48 22-11-20 POCSAG-4  ALPHA  1200  Från: nagiosNagiosXI02.intra.genericmobile.se
+                                                 Ämne: ** RECOVERY Service Alert: localhost/Last delivered mail2fax is OK **
+                                                 ***** Nagios Monitor XI Alert *****?
+                                                 ?
+                                                 Notification Type: RECOVERY?
+                                                 ?
+                                                 Service: Last delivered mail2fax?
+                                                 Host: localhost?
+                                                 Address: 127.0.0.1?
+                                                 State: OK?
+                                                 ?
+                                                 Date/Time: Sun Nov 20 09:10:26 CET 2022?
+                                                 ?
+                                                 Additional Info:?
+                                                 ?
+                                                 OK - 166s ago
+
+1459540 09:11:16 22-11-20 POCSAG-2  ALPHA  1200  k.P2??nV:??CB"3wq(7#0öza.VY'%XD16#L?F`?V?9?vlC'i?*zYY?A?xbÄ0
+
+1459540 09:11:27 22-11-20 POCSAG-2  ALPHA  1200  ?0Ö??;m<??8??o$?B?i??Oy;NH?c%N??eS?oDv`aTs
+
+1398562 09:12:58 22-11-20 POCSAG-1 NUMERIC 1200  026120220
+
+1331434 09:13:41 22-11-20 POCSAG-4  ALPHA  1200  Kontakta SOS 0470-217 60
+                                                 Larmande objekt : G-Värmeverk Gullberna
+                                                 Typ av larm : Driftlarm
+
+1398562 09:13:58 22-11-20 POCSAG-1 NUMERIC 1200  026120220
+1459337 09:16:42 22-11-20 POCSAG-1 NUMERIC 1200  040-676 92 91
+
+1459540 09:18:20 22-11-20 POCSAG-2  ALPHA  1200  
+
+1459540 09:18:27 22-11-20 POCSAG-2  ALPHA  1200  åVm9k?m
+                                                 F?Q_&ÅN<?@6RxF:?Z?>??z?c?@sw?(ö8t+B??b8-ä?(L?
+
+1459108 09:18:40 22-11-20 POCSAG-1 NUMERIC 1200  0322226045
+
+1345632 09:18:51 22-11-20 POCSAG-4  ALPHA  1200  09.18 A ALVE.D501:SOBE01.SLA A-larm Soda-anläggning (10)Motring 0470-28962
+
+1343519 09:25:59 22-11-20 POCSAG-4  ALPHA  1200  Feltyp:  Plats: T32190                   -LKommunikationsfel
+
+1343519 09:26:04 22-11-20 POCSAG-4  ALPHA  1200  Feltyp:  Plats: T32190                   -LRTU Nätfel
+
+1343519 09:26:11 22-11-20 POCSAG-4  ALPHA  1200  Feltyp:  Plats: T32190                   -LRTU DC fel
+
+1343519 09:26:17 22-11-20 POCSAG-4  ALPHA  1200  Feltyp:  Plats: KK21      T11340         -JKJordningskopplarlä
+
+1343519 09:26:23 22-11-20 POCSAG-4  ALPHA  1200  Feltyp:  Plats: KK21      T11270         -JKJordningskopplarlä
+
+1343519 09:26:29 22-11-20 POCSAG-4  ALPHA  1200  Feltyp:  Plats: REPEATER  KUNGSG         -LKommunikationsfel
+
+1343519 09:26:35 22-11-20 POCSAG-4  ALPHA  1200  Feltyp:  Plats: REPEATER  KUNGSG         -LNätfel
+
+1343519 09:26:41 22-11-20 POCSAG-4  ALPHA  1200  Feltyp:  Plats: REPEATER  KUNGSG         -LDC fel
+
+1343519 09:26:46 22-11-20 POCSAG-4  ALPHA  1200  Feltyp:  Plats: KK21      T11195         -JKJordningskopplarlä
+
+1343519 09:26:52 22-11-20 POCSAG-4  ALPHA  1200  Feltyp:  Plats: T32190    T32200         -FFrånskiljarläge
+
+1343519 09:26:58 22-11-20 POCSAG-4  ALPHA  1200  Feltyp:  Plats: KK21      T21385         -FFrånskiljarläge
+
+1343519 09:27:04 22-11-20 POCSAG-4  ALPHA  1200  Feltyp:  Plats: KK21      T11340         -FFrånskiljarläge
+
+1343519 09:27:10 22-11-20 POCSAG-4  ALPHA  1200  Feltyp:  Plats: KK21      T11270         -FFrånskiljarläge
+
+1343519 09:27:16 22-11-20 POCSAG-4  ALPHA  1200  Feltyp:  Plats: KK21      T11195         -FFrånskiljarläge
+
+1343519 09:27:23 22-11-20 POCSAG-4  ALPHA  1200  Feltyp:  Plats: KK21      T21385         -JKJordningskopplarlä
+
+1343519 09:27:28 22-11-20 POCSAG-4  ALPHA  1200  Feltyp:  Plats: T32190                   -RTURTU Spänning
+
+1343519 09:27:34 22-11-20 POCSAG-4  ALPHA  1200  Feltyp:  Plats: T32190                   -RTURSSI Upplänk
+
+1343519 09:27:40 22-11-20 POCSAG-4  ALPHA  1200  Feltyp:  Plats: T32190                   -RTURSSI Nedlänk
+
+1345632 09:27:44 22-11-20 POCSAG-4  ALPHA  1200  09.27 A ALVE.D501:SOBE01.SLA A-larm Soda-anläggning (10)Motring 0470-28962
+
+1314292 09:29:43 22-11-20 POCSAG-1 NUMERIC 1200  1111
+
+1457020 09:30:21 22-11-20 POCSAG-4  ALPHA  1200  Bräddning FM2  20/11 09:29
+
+1314292 09:30:44 22-11-20 POCSAG-1 NUMERIC 1200  1111
+
+1457020 09:31:21 22-11-20 POCSAG-4  ALPHA  1200  Bräddning FM2  20/11 09:29
+
+1458678 09:31:59 22-11-20 POCSAG-4  ALPHA  1200  2022-11-20 09:30:24
+                                                 AKTIVT
+                                                 /Minnesgärde 07190000217861/FRONTEND Minicall  Minicalltest kl.09.30/
+
+1293066 09:32:11 22-11-20 POCSAG-1 NUMERIC 1200  0243497381
+
+1458678 09:32:25 22-11-20 POCSAG-4  ALPHA  1200  Minnesgärde 063-102857 09:30:05 MinnesgardetVV 199  Summalarm A Inre
+
+1356196 09:33:13 22-11-20 POCSAG-1 NUMERIC 1200  0730735059
+
+1457020 09:36:04 22-11-20 POCSAG-4  ALPHA  1200  Bräddning FM2  20/11 09:29
+
+1458050 09:37:17 22-11-20 POCSAG-4  ALPHA  1200  2022-11-20 09:36:20?
+                                                 AKTIVT?
+                                                 /Göviken 076-1264005/Kontrollrum Minicall PLC S7 400 Minicalltest kl.09:35/
+
+0615915 09:38:40 22-11-20 POCSAG-1 NUMERIC 1200  0706797441
+
+1457019 09:41:54 22-11-20 POCSAG-4  ALPHA  1200  Bräddning FM2  20/11 09:29
+
+1345632 09:43:15 22-11-20 POCSAG-4  ALPHA  1200  09.27 A ALVE.D501:SOBE01.SLA A-larm Soda-anläggning (10)Motring 0470-28962
+
+1458407 09:47:04 22-11-20 POCSAG-1 NUMERIC 1200  033207999
+0773854 09:47:44 22-11-20 POCSAG-1 NUMERIC 1200  00737658235
+
+1457019 09:47:44 22-11-20 POCSAG-4  ALPHA  1200  Bräddning FM2  20/11 09:29
+
+1356378 09:47:55 22-11-20 POCSAG-1 NUMERIC 1200  02327170
+0773854 09:47:57 22-11-20 POCSAG-1 NUMERIC 1200  0737658235
+1458407 09:48:04 22-11-20 POCSAG-1 NUMERIC 1200  033207999
+
+1457019 09:48:44 22-11-20 POCSAG-4  ALPHA  1200  Bräddning FM2  20/11 09:29
+
+1286823 09:48:51 22-11-20 POCSAG-4  ALPHA  1200  H14 Hög nivå vippa  A 20-Nov-22  09:45
+
+1356378 09:48:56 22-11-20 POCSAG-1 NUMERIC 1200  02327170
+
+1286823 09:49:51 22-11-20 POCSAG-4  ALPHA  1200  H14 Hög nivå vippa  A 20-Nov-22  09:45
+
+1459547 09:50:30 22-11-20 POCSAG-2  ALPHA  1200  ÄdpÄö+d-??dzO5??oA0?äb?+N?3??bN9?Ö???hqÅ,?%E?:CZd
+
+1459547 09:51:30 22-11-20 POCSAG-2  ALPHA  1200  vJ!M+?5?.G ?0v%O??ö%2%??K?.+S7<l?,F8OT1Qä?qTl?7&zöA`?UVptC?Ä?@8z8??OeÖö$jdÅVFT:?h9b?'?Ing4äA?
+
+1459413 09:54:12 22-11-20 POCSAG-4  ALPHA  1200  Kvittera ärendet på: 0173-17500
+                                                 Fastigh.jour el
+                                                 Händelsebeskrivning : 
+                                                 H.beskr : Seniorboendet ?Björken?. Granne till inringaren (bor i lgh 15) som nu på morgonen upptäckt att kyl/frys inte fungerar. All mat är upptinad/varm.
+                                                 Palmgatan 4, TIERP
+                                                 Tierp
+                                                 Ä Id : 2
+                                                 Best : Sibylla Andersson
+                                                 Telefonnummer : 0730323263
+
+1350125 09:56:12 22-11-20 POCSAG-1 NUMERIC 1200  83255
+1347418 09:57:16 22-11-20 POCSAG-1 NUMERIC 1200  4444
+
+1357312 09:57:30 22-11-20 POCSAG-4  ALPHA  1200  Från: Active.Expertsiver.se
+                                                 Ämne: Failure:  C:SWEGON  Swegon - Prod - GRID - Autojobs SLA 24/7 ASSIGNEDTO:SPECIALISTS POWER 
+                                                 Message from IACTX-PRD01 on iVer?
+                                                 22-11-20 09:57:01?
+                                                 ?
+                                                 Notes::?
+                                                      -- Swegon har underhåll 3:e söndagen varje månad 9-15. --?
+                                                 -------------------------------------------------------------------------------------------?
+                                                 Dokumentation: SOP5984?
+                                                 Item:?
+                                                      C:SWEGON  Swe
+
+1357312 09:57:36 22-11-20 POCSAG-4  ALPHA  1200  Från: Active.Expertsiver.se
+                                                 Ämne: Failure:  C:SWEGON  Swegon - Prod - GRID - Appstatus SLA 24/7 ASSIGNEDTO:SPECIALISTS POWER 
+                                                 Message from IACTX-PRD01 on iVer?
+                                                 22-11-20 09:57:08?
+                                                 ?
+                                                 Notes::?
+                                                      -- Swegon har underhåll 3:e söndagen varje månad 9-15. -----------------------------------------------------------------------------------------?
+                                                   LARMM3STATUS%20OR%20LARMGRID?
+                                                 Url?
+                                                 http://SEALIM3BE0
+
+1347418 09:58:16 22-11-20 POCSAG-1 NUMERIC 1200  4444
+
+1345632 09:58:45 22-11-20 POCSAG-4  ALPHA  1200  09.27 A ALVE.D501:SOBE01.SLA A-larm Soda-anläggning (10)Motring 0470-28962
+
+1345664 09:59:13 22-11-20 POCSAG-4  ALPHA  1200  R_Larmkategorinamn : Insatsledar larm?
+                                                 R_HT-text 1        : Brand i byggnad?
+                                                 R_Adress           : Svansjövägen 3?
+                                                 R_Samhälle         : Mark?
+                                                 R_RAPS-grupp       : VGöt RAPS-29
+                                                 - Brand -
+
+1347418 09:59:49 22-11-20 POCSAG-1 NUMERIC 1200  4444
+
+1345664 10:00:13 22-11-20 POCSAG-4  ALPHA  1200  R_Larmkategorinamn : Insatsledar larm?
+                                                 R_HT-text 1        : Brand i byggnad?
+                                                 R_Adress           : Svansjövägen 3?
+                                                 R_Samhälle         : Mark?
+                                                 R_RAPS-grupp       : VGöt RAPS-29
+                                                 - Brand -
+
+1398341 10:00:37 22-11-20 POCSAG-4  ALPHA  1200  KV2022-11-20 10:00:00?
+                                                 AKTIVT?
+                                                 LF-3300-330010-DUC1-10-TESTLARM/TESTLARM
+
+1347418 10:00:49 22-11-20 POCSAG-1 NUMERIC 1200  4444
+
+1354835 10:01:24 22-11-20 POCSAG-4  ALPHA  1200  GE_Webport * Prio: F Plats: Kamomillen?
+                                                 Adress: VS01, VV?
+                                                 Beskr: Testlarm Hildedal?
+                                                 Larm: KV42_TESTLARM_AL?
+                                                 Status: ALARM_NACK?
+                                                 Tid: 2022-11-20 10:00:43
+
+1347418 10:02:23 22-11-20 POCSAG-1 NUMERIC 1200  4444
+
+1354835 10:02:26 22-11-20 POCSAG-4  ALPHA  1200  GE_Webport * Prio: F Plats: Kamomillen?
+                                                 Adress: VS01, VV?
+                                                 Beskr: Testlarm Hildedal?
+                                                 Larm: KV42_TESTLARM_AL?
+                                                 Status: ALARM_NACK?
+                                                 Tid: 2022-11-20 10:00:43
+
+1347418 10:03:23 22-11-20 POCSAG-1 NUMERIC 1200  4444
+
+1345632 10:04:38 22-11-20 POCSAG-4  ALPHA  1200  10.03 A ALVE.D501:SOBE01.SLA A-larm Soda-anläggning (10)Motring 0470-28962
+
+1338317 10:04:47 22-11-20 POCSAG-4  ALPHA  1200  Kontakta SOS vid tillfälle 031-7031351
+
+1459108 10:05:56 22-11-20 POCSAG-1 NUMERIC 1200  0336163815
+
+1354835 10:06:01 22-11-20 POCSAG-4  ALPHA  1200  GBG-e * A-Larm WebFactory 2022-11-20 10:05:22 Von Utfallsgatan 11-13?
+                                                 N13800/13800/AL/AL.115 C  TESTLARM AKTIVT
+
+1353226 10:17:15 22-11-20 POCSAG-1 NUMERIC 1200  0470-21760
+
+1458678 10:18:05 22-11-20 POCSAG-4  ALPHA  1200  Minnesgärde 063-102857 09:30:05 MinnesgardetVV 199  Summalarm A Inre
+
+0569105 10:18:15 22-11-20 POCSAG-1 NUMERIC 1200  1234
+1353226 10:18:16 22-11-20 POCSAG-1 NUMERIC 1200  0470-21760
+1459167 10:18:25 22-11-20 POCSAG-1 NUMERIC 1200  0490-10408
+
+1458020 10:19:36 22-11-20 POCSAG-4  ALPHA  1200  HVC DRIFT        LARM            HVC
+
+1345632 10:20:08 22-11-20 POCSAG-4  ALPHA  1200  10.03 A ALVE.D501:SOBE01.SLA A-larm Soda-anläggning (10)Motring 0470-28962
+
+0553340 10:21:05 22-11-20 POCSAG-1 NUMERIC 1200  0706286496
+1357729 10:23:31 22-11-20 POCSAG-1 NUMERIC 1200  044200400
+
+1459804 10:24:41 22-11-20 POCSAG-4  ALPHA  1200  Trafikolycka - flera fordon Personbil Övrigt:Ärendenr: 19:10378933:2?
+                                                 SOS: Göteborg?
+                                                 2022-11-20 10:19:09?
+                                                 Räddning?
+                                                 Prio: 1?
+                                                 Trafikolycka - flera fordon?
+                                                 Personbil?
+                                                 Övrigt?
+                                                 1 biltransport som voltat?
+                                                 RV 27?
+                                                 Riktning Göteborg?
+                                                 Gislaved?
+                                                 Gislaved- DRH?
+                                                 Kommun: Gislaved?
+                                                 PosRef: 0?
+                                                 Pos: 6361839, 1360465?
+                                                 ?
+                                                 SOS Alarm - Ett tryggare Sverige för alla
+                                                 - Personbil -
+
+0619517 10:26:07 22-11-20 POCSAG-1 NUMERIC 1200  0313456555
+
+1331434 10:28:50 22-11-20 POCSAG-4  ALPHA  1200  Kontakta SOS 0470-217 60
+                                                 Larmande objekt : G-Värmeverk Gullberna
+                                                 Typ av larm : Driftlarm
+
+1459144 10:30:42 22-11-20 POCSAG-2  ALPHA  1200  U???tD?lof?2=?p??V??*DxMP.?#Ww???sI/trF?a? p,"^?8@?;z??Wosg&
+
+1356403 10:31:12 22-11-20 POCSAG-4  ALPHA  1200  N: TT-FLASH: H`di Fried död Den svenska Förintelseöverlevaren och psykologen H`di Fried har avlidit, bekräftar familjen för DN.
+
+1274893 10:31:34 22-11-20 POCSAG-4  ALPHA  1200  VV-Testlarmsignal  20/11 10:29  Testlarm för Dricksvatten -avdelningen
+
+2011435 10:32:33 22-11-20 POCSAG-1  ALPHA  1200  ^"?/?GWHc+dq?rx??.??WHC52
+
+1274893 10:32:34 22-11-20 POCSAG-4  ALPHA  1200  VV-Testlarmsignal  20/11 10:29  Testlarm för Dricksvatten -avdelningen
+
+1459686 10:34:00 22-11-20 POCSAG-4  ALPHA  1200  Kvittera ärendet på: 0173-17500
+                                                 Fastigh.jour glas
+                                                 Händelsebeskrivning : 
+                                                 H.beskr : Har inget fönster i köket. Hade ett tillfälligt fönster i köket som sattes in i torsdags, men den har lossnat så det är ett hål rakt igenom.
+                                                 Kommunalvägen 14, lgh 1603, HUDDINGE
+                                                 Huddinge
+                                                 Ä Id : 2
+                                                 Best : Karla
+                                                 Telefonnummer : 0737644485
+
+1334608 10:34:23 22-11-20 POCSAG-1 NUMERIC 1200  0703513125
+
+1459686 10:34:59 22-11-20 POCSAG-4  ALPHA  1200  Kvittera ärendet på: 0173-17500
+                                                 Fastigh.jour glas
+                                                 Händelsebeskrivning : 
+                                                 H.beskr : Har inget fönster i köket. Hade ett tillfälligt fönster i köket som sattes in i torsdags, men den har lossnat så det är ett hål rakt igenom.
+                                                 Kommunalvägen 14, lgh 1603, HUDDINGE
+                                                 Huddinge
+                                                 Ä Id : 2
+                                                 Best : Karla
+                                                 Telefonnummer : 0737644485
+
+1459642 10:35:01 22-11-20 POCSAG-1 NUMERIC 1200  9905
+1334608 10:35:23 22-11-20 POCSAG-1 NUMERIC 1200  0703513125
+
+1331414 10:35:28 22-11-20 POCSAG-4  ALPHA  1200  Knutna kundobjekt : X-OVAKO Vågen
+                                                 Utalarmeringsinformation : 
+                                                 Larmsändarkod : IK106784
+                                                 Larmhändelsekod : 02
+                                                 Larmkategori : Driftlarm prioritera
+                                                 Kompletterande kategoritext : Driftlarm/Radiak Järnvägsvågen
+
+1459642 10:36:01 22-11-20 POCSAG-1 NUMERIC 1200  9905
+1459558 10:36:21 22-11-20 POCSAG-1 NUMERIC 1200  626300
+
+1331414 10:36:28 22-11-20 POCSAG-4  ALPHA  1200  Knutna kundobjekt : X-OVAKO Vågen
+                                                 Utalarmeringsinformation : 
+                                                 Larmsändarkod : IK106784
+                                                 Larmhändelsekod : 02
+                                                 Larmkategori : Driftlarm prioritera
+                                                 Kompletterande kategoritext : Driftlarm/Radiak Järnvägsvågen
+
+1345632 10:37:02 22-11-20 POCSAG-4  ALPHA  1200  10.36 A ALVE.D501:SOBE01.SLA A-larm Soda-anläggning (10)Motring 0470-28962
+
+1459122 10:38:54 22-11-20 POCSAG-1 NUMERIC 1200  0102187198
+0766106 10:39:59 22-11-20 POCSAG-1 NUMERIC 1200  65735100
+1459741 10:40:22 22-11-20 POCSAG-1 NUMERIC 1200  0470-204 42
+1355441 10:40:30 22-11-20 POCSAG-1 NUMERIC 1200  0102223000
+1459139 10:41:16 22-11-20 POCSAG-2 NUMERIC 1200  72813658U89 959680U2-5U65104 0
+1459741 10:41:22 22-11-20 POCSAG-1 NUMERIC 1200  0470-204 42
+
+1458020 10:41:30 22-11-20 POCSAG-4  ALPHA  1200  HVC DRIFT        LARM            HVC
+
+1459804 10:41:52 22-11-20 POCSAG-4  ALPHA  1200  Trafikolycka - flera fordon Personbil Övrigt:Ärendenr: 19:10378933:2?
+                                                 SOS: Göteborg?
+                                                 2022-11-20 10:19:09?
+                                                 Räddning?
+                                                 Prio: 1?
+                                                 Trafikolycka - flera fordon?
+                                                 Personbil?
+                                                 Övrigt?
+                                                 1 biltransport som voltat?
+                                                 RV 27?
+                                                 Riktning Göteborg?
+                                                 Gislaved?
+                                                 Gislaved- DRH?
+                                                 Kommun: Gislaved?
+                                                 PosRef: 0?
+                                                 Pos: 6361400, 1360503?
+                                                 ?
+                                                 SOS Alarm - Ett tryggare Sverige för alla
+                                                 - Personbil -
+
+1459139 10:42:16 22-11-20 POCSAG-2  ALPHA  1200  ä;$E=e5:!?<sd~A?
+
+1459804 10:42:52 22-11-20 POCSAG-4  ALPHA  1200  Trafikolycka - flera fordon Personbil Övrigt:Ärendenr: 19:10378933:2?
+                                                 SOS: Göteborg?
+                                                 2022-11-20 10:19:09?
+                                                 Räddning?
+                                                 Prio: 1?
+                                                 Trafikolycka - flera fordon?
+                                                 Personbil?
+                                                 Övrigt?
+                                                 1 biltransport som voltat?
+                                                 RV 27?
+                                                 Riktning Göteborg?
+                                                 Gislaved?
+                                                 Gislaved- DRH?
+                                                 Kommun: Gislaved?
+                                                 PosRef: 0?
+                                                 Pos: 6361400, 1360503?
+                                                 ?
+                                                 SOS Alarm - Ett tryggare Sverige för alla
+                                                 - Personbil -
+
+0559389 10:43:19 22-11-20 POCSAG-1 NUMERIC 1200  5
+1459741 10:45:57 22-11-20 POCSAG-1 NUMERIC 1200  0470-204 42
+1350125 10:46:02 22-11-20 POCSAG-1 NUMERIC 1200  049086115
+1459741 10:46:57 22-11-20 POCSAG-1 NUMERIC 1200  0470-204 42
+1356378 10:49:58 22-11-20 POCSAG-1 NUMERIC 1200  02327170
+0546198 10:50:14 22-11-20 POCSAG-1 NUMERIC 1200  0336164684
+
+1458020 10:50:28 22-11-20 POCSAG-4  ALPHA  1200  HVC DRIFT        LARM            HVC
+
+1356378 10:50:58 22-11-20 POCSAG-1 NUMERIC 1200  02327170
+
+1331434 10:51:04 22-11-20 POCSAG-4  ALPHA  1200  Kontakta SOS 0470-217 60
+                                                 Larmande objekt : G-Värmeverk Gullberna
+                                                 Typ av larm : Driftlarm
+
+1345632 10:52:32 22-11-20 POCSAG-4  ALPHA  1200  10.36 A ALVE.D501:SOBE01.SLA A-larm Soda-anläggning (10)Motring 0470-28962
+
+1458434 10:53:21 22-11-20 POCSAG-1 NUMERIC 1200  0470-204 42
+1346141 10:53:39 22-11-20 POCSAG-1 NUMERIC 1200  45182
+1458434 10:54:21 22-11-20 POCSAG-1 NUMERIC 1200  0470-204 42
+1346141 10:54:39 22-11-20 POCSAG-1 NUMERIC 1200  45182
+0049808 10:55:16 22-11-20 POCSAG-3 NUMERIC 1200  TONE ONLY
+
+1331434 10:56:02 22-11-20 POCSAG-4  ALPHA  1200  Kontakta SOS 0470-217 60
+                                                 Larmande objekt : G-Värmeverk Gullberna
+                                                 Typ av larm : Driftlarm
+
+1459167 10:56:28 22-11-20 POCSAG-1 NUMERIC 1200  0490-10408
+
+1357933 10:58:53 22-11-20 POCSAG-4  ALPHA  1200  A
+                                                 SJR10.L73536.MVB
+                                                 20/11 10:57
+                                                 Gasklockor Låg Nivå
+
+0633048 10:59:44 22-11-20 POCSAG-4  ALPHA  1200  A-Larm
+
+1354835 11:01:01 22-11-20 POCSAG-4  ALPHA  1200  GBG-e * A-Larm WebFactory 2022-11-20 11:00:20 Von Utfallsgatan 11-13?
+                                                 N13800/13800/AL/AL.115 C  TESTLARM ÅTERGÅTT
+
+1354835 11:01:49 22-11-20 POCSAG-4  ALPHA  1200  GE_Webport * Prio: F Plats: Kamomillen?
+                                                 Adress: VS01, VV?
+                                                 Beskr: Testlarm Hildedal?
+                                                 Larm: KV42_TESTLARM_AL?
+                                                 Status:OK_NACK?
+                                                 Tid: 2022-11-20 11:01:09
+
+1354835 11:02:01 22-11-20 POCSAG-4  ALPHA  1200  GBG-e * A-Larm WebFactory 2022-11-20 11:00:20 Von Utfallsgatan 11-13?
+                                                 N13800/13800/AL/AL.115 C  TESTLARM ÅTERGÅTT
+
+1354835 11:02:49 22-11-20 POCSAG-4  ALPHA  1200  GE_Webport * Prio: F Plats: Kamomillen?
+                                                 Adress: VS01, VV?
+                                                 Beskr: Testlarm Hildedal?
+                                                 Larm: KV42_TESTLARM_AL?
+                                                 Status:OK_NACK?
+                                                 Tid: 2022-11-20 11:01:09
+
+0615915 11:05:18 22-11-20 POCSAG-1 NUMERIC 1200  0760451088
+1457300 11:05:43 22-11-20 POCSAG-1 NUMERIC 1200  023490488
+0615915 11:06:18 22-11-20 POCSAG-1 NUMERIC 1200  0760451088
+1350125 11:13:34 22-11-20 POCSAG-1 NUMERIC 1200  83255
+1355305 11:13:47 22-11-20 POCSAG-1 NUMERIC 1200  6 0104536999
+
+1294628 11:14:19 22-11-20 POCSAG-4  ALPHA  1200  Larm Desigo CC
+                                                 A-Larm 2022-11-20 11:13:54?
+                                                 SIF.Hus 05.Övrigt.AP05_1  ?
+                                                 Hiss 05_1 personlarm.Värde
+
+1294628 11:14:36 22-11-20 POCSAG-4  ALPHA  1200  SIF LARM             SAIA Sum.L
+
+1294628 11:15:19 22-11-20 POCSAG-4  ALPHA  1200  Larm Desigo CC
+                                                 A-Larm 2022-11-20 11:13:54?
+                                                 SIF.Hus 05.Övrigt.AP05_1  ?
+                                                 Hiss 05_1 personlarm.Värde
+
+1294628 11:15:36 22-11-20 POCSAG-4  ALPHA  1200  SIF LARM             SAIA Sum.L
+
+0766108 11:17:07 22-11-20 POCSAG-1 NUMERIC 1200  13161199
+1458041 11:17:37 22-11-20 POCSAG-1 NUMERIC 1200  026154033
+0766108 11:18:29 22-11-20 POCSAG-1 NUMERIC 1200  13161199
+
+1459314 11:21:00 22-11-20 POCSAG-2  ALPHA  1200  X???tSCsd7r+_$i?%Vk0y;Qv1&X?&SÅ(z?2g@!$x?9Z/,xc,qe'nFwP?äc??)kAG?Y0J?.??9~?<åBDQ??YFåo?od?ä???
+
+1398277 11:21:39 22-11-20 POCSAG-4  ALPHA  1200  1837285 Ocab Malmö / Syd Jonas Hellsten restvärdesledare 0702106021, Öresundsgatan 3F Helsingborg, städning av sot i trapphus efter brand
+                                                 - Brand -
+
+1356387 11:22:28 22-11-20 POCSAG-4  ALPHA  1200  FJV A-LARM LÅG NIVÅ MELLANBEHÅLLARE CLOSE
+
+1398277 11:22:39 22-11-20 POCSAG-4  ALPHA  1200  1837285 Ocab Malmö / Syd Jonas Hellsten restvärdesledare 0702106021, Öresundsgatan 3F Helsingborg, städning av sot i trapphus efter brand
+                                                 - Brand -
+
+1356387 11:23:20 22-11-20 POCSAG-4  ALPHA  1200  Kvitt 063-131042
+
+1356387 11:23:28 22-11-20 POCSAG-4  ALPHA  1200  FJV A-LARM LÅG NIVÅ MELLANBEHÅLLARE CLOSE
+
+1356387 11:24:20 22-11-20 POCSAG-4  ALPHA  1200  Kvitt 063-131042
+
+1459043 11:29:31 22-11-20 POCSAG-4  ALPHA  1200  Resurslarm DRH
+                                                 Talgr : Jönk RAPS-07
+                                                 Prio : 1
+                                                 Trafikolycka - flera fordon
+                                                 Personbil
+                                                 Övrigt
+                                                 väg 32
+                                                 F3000
+                                                 Händelsebeskrivning : 2 pb i krock
+                                                 1 fastklämd i bilen, rök från bilen
+                                                 N=6437010 E=497861 
+                                                 Knuten resurs: : 243-3010
+                                                 Knuten resurs: : 243-3060
+                                                 Knuten resurs: : 243-3080
+                                                 Knuten resurs: : 243-30FL
+                                                 Knuten resurs: : 343-9320
+                                                 Knuten resurs: : 343-9330
+                                                 - Personbil -
+
+1459043 11:30:05 22-11-20 POCSAG-4  ALPHA  1200  Resurslarm DRH
+                                                 Talgr : Jönk RAPS-07
+                                                 Prio : 1
+                                                 Trafikolycka - flera fordon
+                                                 Personbil
+                                                 Övrigt
+                                                 väg 32
+                                                 F3000
+                                                 Händelsebeskrivning : 2 pb i krock
+                                                 1 fastklämd i bilen, rök från bilen
+                                                 N=6437010 E=497861 
+                                                 Knuten resurs: : 243-3010
+                                                 Knuten resurs: : 243-3040
+                                                 Knuten resurs: : 243-3060
+                                                 Knuten resurs: : 243-3080
+                                                 Knuten resurs: : 243-30FL
+                                                 Knuten resurs: : 343-9320
+                                                 Knuten resurs: : 343-9330
+                                                 - Personbil -
+
+1293190 11:30:08 22-11-20 POCSAG-4  ALPHA  1200  2022 11 20 11:29:12 AKTIVT
+                                                 101 H3 52 0200 NODK LF
+                                                 Kompressor H33004A  Nödkyla aktiverad
+
+1459044 11:30:43 22-11-20 POCSAG-4 NUMERIC 1200  TONE ONLY
+0006148 11:30:43 22-11-20 POCSAG-4 NUMERIC 1200  93945
+1484149 11:30:43 22-11-20 POCSAG-4 NUMERIC 1200  TONE ONLY
+1952086 11:31:15 22-11-20 POCSAG-3 NUMERIC 1200  UÅ457
+1398103 11:31:15 22-11-20 POCSAG-3 NUMERIC 1200  TONE ONLY
+0616330 11:31:16 22-11-20 POCSAG-1 NUMERIC 1200  00920283561
+
+1459044 11:31:43 22-11-20 POCSAG-4  ALPHA  1200  SOS
+                                                 Tekniskt fel
+                                                 Sektion Tekniskt fel brand
+                                                 - Brand -
+
+0616330 11:32:16 22-11-20 POCSAG-1 NUMERIC 1200  00920283561
+1357892 11:33:00 22-11-20 POCSAG-1 NUMERIC 1200  87048
+0758156 11:33:13 22-11-20 POCSAG-1 NUMERIC 1200  87527103
+
+1459804 11:34:00 22-11-20 POCSAG-4  ALPHA  1200  Trafikolycka - flera fordon Personbil Övrigt:Ärendenr: 16:3367596:2?
+                                                 SOS: Jönköping?
+                                                 2022-11-20 11:28:08?
+                                                 Räddning?
+                                                 Prio: 1?
+                                                 Trafikolycka - flera fordon?
+                                                 Personbil?
+                                                 Övrigt?
+                                                 2 pb i krock?
+                                                 väg 32?
+                                                 rikting till mjölby?
+                                                 norr om Tranås.?
+                                                 Tranås- DRH?
+                                                 Kommun: Tranås?
+                                                 PosRef: 0?
+                                                 Pos: 6439264, 1450346?
+                                                 ?
+                                                 SOS Alarm - Ett tryggare Sverige för alla
+                                                 - Personbil -
+
+1357892 11:34:00 22-11-20 POCSAG-1 NUMERIC 1200  87048
+
+1459804 11:35:00 22-11-20 POCSAG-4  ALPHA  1200  Trafikolycka - flera fordon Personbil Övrigt:Ärendenr: 16:3367596:2?
+                                                 SOS: Jönköping?
+                                                 2022-11-20 11:28:08?
+                                                 Räddning?
+                                                 Prio: 1?
+                                                 Trafikolycka - flera fordon?
+                                                 Personbil?
+                                                 Övrigt?
+                                                 2 pb i krock?
+                                                 väg 32?
+                                                 rikting till mjölby?
+                                                 norr om Tranås.?
+                                                 Tranås- DRH?
+                                                 Kommun: Tranås?
+                                                 PosRef: 0?
+                                                 Pos: 6439264, 1450346?
+                                                 ?
+                                                 SOS Alarm - Ett tryggare Sverige för alla
+                                                 - Personbil -
+
+0758156 11:35:00 22-11-20 POCSAG-1 NUMERIC 1200  87527103
+1316349 11:35:33 22-11-20 POCSAG-1 NUMERIC 1200  181018113001000
+1278672 11:35:57 22-11-20 POCSAG-1 NUMERIC 1200  0101096342
+1316349 11:36:33 22-11-20 POCSAG-1 NUMERIC 1200  181018113001000
+0766105 11:36:41 22-11-20 POCSAG-1 NUMERIC 1200  85771101
+1278672 11:36:57 22-11-20 POCSAG-1 NUMERIC 1200  0101096342
+1459611 11:38:17 22-11-20 POCSAG-1 NUMERIC 1200  00102447403
+
+1345577 11:39:10 22-11-20 POCSAG-4  ALPHA  1200  PL100.RT02PV01
+                                                 A
+                                                 <PL100.RT02PV01-LaDriftfel>
+                                                 Driftfel Inlopp rens
+                                                 20/11 11:38
+                                                 14
+
+1456804 11:39:18 22-11-20 POCSAG-1 NUMERIC 1200  00102447403
+
+1457985 11:40:18 22-11-20 POCSAG-4  ALPHA  1200  2022-11-20 11:34:42 H2-220 Brytare läge MELLANLÄGE
+
+1357933 11:41:48 22-11-20 POCSAG-4  ALPHA  1200  A
+                                                 SJR10.T239.MV
+                                                 20/11 11:40
+                                                 Låg Temp VS1-framledning VVX (VS1-GT10)
+
+1350125 11:42:56 22-11-20 POCSAG-1 NUMERIC 1200  83255
+1290134 11:47:58 22-11-20 POCSAG-1 NUMERIC 1200  0406769495
+
+1293190 11:48:54 22-11-20 POCSAG-4  ALPHA  1200  2022 11 20 11:48:24 AKTIVT
+                                                 101 H3 52 0200 NODK LF
+                                                 Kompressor H33004A  Nödkyla aktiverad
+
+1290134 11:48:58 22-11-20 POCSAG-1 NUMERIC 1200  0406769495
+
+1458678 11:53:30 22-11-20 POCSAG-4  ALPHA  1200  2022-11-20 11:52:10
+                                                 AKTIVT
+                                                 /Minnesgärde 07190000217861/VV Minnesgärde RENVP-P2-P3  Utpumpning stoppad/
+
+1458678 11:54:18 22-11-20 POCSAG-4  ALPHA  1200  Minnesgärde 063-102857 11:51:52 MinnesgardetVV 199  Summalarm A Inre
+
+1459817 11:57:18 22-11-20 POCSAG-1 NUMERIC 1200  30 0104705119
+
+1459547 11:59:16 22-11-20 POCSAG-2  ALPHA  1200  `??F
+                                                 ä?S f??mvC'4#^?h6?K*K ?&>sJE'/C~?Q?QzG??N)?ö?Tx,9.
+
+1299163 11:59:29 22-11-20 POCSAG-4  ALPHA  1200  2022 11 20 11:58:00 AKTIVT N7.MINICALLTEST/Tag/MINICALL OCH TIDKANALPROGRAM   OK/CFN
+
+1459547 11:59:58 22-11-20 POCSAG-2  ALPHA  1200  ?M
+
+1459547 12:00:16 22-11-20 POCSAG-2  ALPHA  1200  Z'2?Å
+                                                 8YA9lxp?QI4B1??O?Ö?öBfFQrn?ge?U$I?>Q
+
+1299163 12:00:29 22-11-20 POCSAG-4  ALPHA  1200  2022 11 20 11:58:00 AKTIVT N7.MINICALLTEST/Tag/MINICALL OCH TIDKANALPROGRAM   OK/CFN
+
+1459547 12:00:58 22-11-20 POCSAG-2  ALPHA  1200  å$QH?;??wQb5??Z?/_4zfnO?zf?lhl?M,?,bjÖW,v*`?
+                                                 c?E;IqdG3nVåS4HNM??3~G?dL??NnA
+                                                 z?+?mb=x?LG?=,X??
+
+1331380 12:01:56 22-11-20 POCSAG-4  ALPHA  1200  2022-11-20 12:00:44?
+                                                 AKTIVT   ?
+                                                 KLH-BB04-GF01-NL/BOD/Larm lågt flöde
+
+0766100 12:03:16 22-11-20 POCSAG-1 NUMERIC 1200  64018999
+1350125 12:03:18 22-11-20 POCSAG-1 NUMERIC 1200  45324
+0766100 12:04:03 22-11-20 POCSAG-1 NUMERIC 1200  64018999
+0695409 12:05:13 22-11-20 POCSAG-1 NUMERIC 1200  133U0723530555
+
+1459043 12:06:15 22-11-20 POCSAG-4  ALPHA  1200  Resurslarm DRH
+                                                 Talgr : Jönk RAPS-16
+                                                 Prio : 1
+                                                 Trafikolycka - singel
+                                                 Personbil
+                                                 Övrigt
+                                                 rödja 3
+                                                 Mellan Nässjö och Forserum
+                                                 F2000
+                                                 Händelsebeskrivning : 1 pb voltat
+                                                 N=6392515 E=475700 
+                                                 Knuten resurs: : 243-2010
+                                                 Knuten resurs: : 243-2080
+                                                 Knuten resurs: : 243-20FL
+                                                 Knuten resurs: : 343-9220
+                                                 Knuten resurs: : 343-9210
+                                                 - Personbil -
+
+1293190 12:07:15 22-11-20 POCSAG-4  ALPHA  1200  2022 11 20 12:06:22 AKTIVT
+                                                 101 H3 52 0200 NODK LF
+                                                 Kompressor H33004A  Nödkyla aktiverad
+
+1334692 12:07:40 22-11-20 POCSAG-1 NUMERIC 1200  0736640151
+1334692 12:07:41 22-11-20 POCSAG-4  ALPHA  1200  0736640151
+
+1345928 12:09:54 22-11-20 POCSAG-1 NUMERIC 1200  0812317475
+
+1459804 12:10:16 22-11-20 POCSAG-4  ALPHA  1200  Trafikolycka - singel Personbil Övrigt:Ärendenr: 16:3367606:2?
+                                                 SOS: Jönköping?
+                                                 2022-11-20 12:04:47?
+                                                 Räddning?
+                                                 Prio: 1?
+                                                 Trafikolycka - singel?
+                                                 Personbil?
+                                                 Övrigt?
+                                                 1 pb voltat?
+                                                 Rödja 3?
+                                                 ?
+                                                 Mellan Nässjö och Forserum?
+                                                 Nässjö- DRH?
+                                                 Kommun: Nässjö?
+                                                 PosRef: 0?
+                                                 Pos: 6395016, 1427646?
+                                                 ?
+                                                 SOS Alarm - Ett tryggare Sverige för alla
+                                                 - Personbil -
+
+1334692 12:12:35 22-11-20 POCSAG-1 NUMERIC 1200  0702818155
+1334692 12:12:36 22-11-20 POCSAG-4  ALPHA  1200  0702818155
+
+1459804 12:13:58 22-11-20 POCSAG-4  ALPHA  1200  Utsläpp farligt ämne - övrigt Ute:Ärendenr: 16:3367609:2?
+                                                 SOS: Jönköping?
+                                                 2022-11-20 12:08:31?
+                                                 Räddning?
+                                                 Prio: 1?
+                                                 Utsläpp farligt ämne - övrigt?
+                                                 Ute?
+                                                 ?
+                                                 Utsläpp, glykol?
+                                                 västermogatan 23?
+                                                 ?
+                                                 karlsdal?
+                                                 Värnamo- DRH?
+                                                 Kommun: Värnamo?
+                                                 PosRef: 0?
+                                                 Pos: 6340725, 1393167?
+                                                 ?
+                                                 SOS Alarm - Ett tryggare Sverige för alla
+
+0728315 12:14:48 22-11-20 POCSAG-1 NUMERIC 1200  033207999
+
+1459804 12:14:58 22-11-20 POCSAG-4  ALPHA  1200  Utsläpp farligt ämne - övrigt Ute:Ärendenr: 16:3367609:2?
+                                                 SOS: Jönköping?
+                                                 2022-11-20 12:08:31?
+                                                 Räddning?
+                                                 Prio: 1?
+                                                 Utsläpp farligt ämne - övrigt?
+                                                 Ute?
+                                                 ?
+                                                 Utsläpp, glykol?
+                                                 västermogatan 23?
+                                                 ?
+                                                 karlsdal?
+                                                 Värnamo- DRH?
+                                                 Kommun: Värnamo?
+                                                 PosRef: 0?
+                                                 Pos: 6340725, 1393167?
+                                                 ?
+                                                 SOS Alarm - Ett tryggare Sverige för alla
+
+0728315 12:15:48 22-11-20 POCSAG-1 NUMERIC 1200  033207999
+1459108 12:17:03 22-11-20 POCSAG-1 NUMERIC 1200  0336162004
+1355305 12:18:09 22-11-20 POCSAG-1 NUMERIC 1200  7 0704317641
+
+1458725 12:21:23 22-11-20 POCSAG-4  ALPHA  1200  404 Tovaholm VV 2022-11-20 12:14:24 376 Högt pH LR On
+
+1334608 12:21:36 22-11-20 POCSAG-1 NUMERIC 1200  0708814195
+1335048 12:21:48 22-11-20 POCSAG-1 NUMERIC 1200  0812358193
+
+1458725 12:22:23 22-11-20 POCSAG-4  ALPHA  1200  404 Tovaholm VV 2022-11-20 12:14:24 376 Högt pH LR On
+
+1334608 12:22:36 22-11-20 POCSAG-1 NUMERIC 1200  0708814195
+1335048 12:22:48 22-11-20 POCSAG-1 NUMERIC 1200  0812358193
+2031599 12:23:18 22-11-20 POCSAG-1 NUMERIC 1200  TONE ONLY
+1334608 12:24:01 22-11-20 POCSAG-1 NUMERIC 1200  0708814195
+
+1293190 12:24:23 22-11-20 POCSAG-4  ALPHA  1200  2022 11 20 12:23:54 AKTIVT
+                                                 101 H3 52 0200 NODK LF
+                                                 Kompressor H33004A  Nödkyla aktiverad
+
+1356167 12:24:25 22-11-20 POCSAG-4  ALPHA  1200  SOS Alarm 08-4542970
+
+1350125 12:24:27 22-11-20 POCSAG-1 NUMERIC 1200  048048721
+1334608 12:25:01 22-11-20 POCSAG-1 NUMERIC 1200  0708814195
+
+1459804 12:27:05 22-11-20 POCSAG-4  ALPHA  1200  Trafikolycka - singel Personbil Övrigt:Ärendenr: 16:3367606:2?
+                                                 SOS: Jönköping?
+                                                 2022-11-20 12:04:47?
+                                                 Räddning?
+                                                 Prio: 1?
+                                                 Trafikolycka - singel?
+                                                 Personbil?
+                                                 Övrigt?
+                                                 1 pb voltat?
+                                                 Rödja 3?
+                                                 ?
+                                                 Mellan Nässjö och Forserum?
+                                                 Landsbro- DRH?
+                                                 Kommun: Vetlanda?
+                                                 PosRef: 0?
+                                                 Pos: 6367145, 1439703?
+                                                 ?
+                                                 SOS Alarm - Ett tryggare Sverige för alla
+                                                 - Personbil -
+
+1459804 12:27:25 22-11-20 POCSAG-4  ALPHA  1200  Trafikolycka - singel Personbil Övrigt:Ärendenr: 16:3367606:2?
+                                                 SOS: Jönköping?
+                                                 2022-11-20 12:04:47?
+                                                 Räddning?
+                                                 Prio: 1?
+                                                 Trafikolycka - singel?
+                                                 Personbil?
+                                                 Övrigt?
+                                                 1 pb voltat?
+                                                 Rödja 3?
+                                                 ?
+                                                 Mellan Nässjö och Forserum?
+                                                 Landsbro- DRH?
+                                                 Kommun: Vetlanda?
+                                                 PosRef: 0?
+                                                 Pos: 6367027, 1439713?
+                                                 ?
+                                                 SOS Alarm - Ett tryggare Sverige för alla
+                                                 - Personbil -
+
+1459804 12:27:42 22-11-20 POCSAG-4  ALPHA  1200  Trafikolycka - singel Personbil Övrigt:Ärendenr: 16:3367606:2?
+                                                 SOS: Jönköping?
+                                                 2022-11-20 12:04:47?
+                                                 Räddning?
+                                                 Prio: 1?
+                                                 Trafikolycka - singel?
+                                                 Personbil?
+                                                 Övrigt?
+                                                 1 pb voltat?
+                                                 Rödja 3?
+                                                 ?
+                                                 Söder om N Sandsjö?
+                                                 Landsbro- DRH?
+                                                 Kommun: Vetlanda?
+                                                 PosRef: 0?
+                                                 Pos: 6367027, 1439713?
+                                                 ?
+                                                 SOS Alarm - Ett tryggare Sverige för alla
+                                                 - Personbil -
+
+1459804 12:28:05 22-11-20 POCSAG-4  ALPHA  1200  Trafikolycka - singel Personbil Övrigt:Ärendenr: 16:3367606:2?
+                                                 SOS: Jönköping?
+                                                 2022-11-20 12:04:47?
+                                                 Räddning?
+                                                 Prio: 1?
+                                                 Trafikolycka - singel?
+                                                 Personbil?
+                                                 Övrigt?
+                                                 1 pb voltat?
+                                                 Rödja 3?
+                                                 ?
+                                                 Mellan Nässjö och Forserum?
+                                                 Landsbro- DRH?
+                                                 Kommun: Vetlanda?
+                                                 PosRef: 0?
+                                                 Pos: 6367145, 1439703?
+                                                 ?
+                                                 SOS Alarm - Ett tryggare Sverige för alla
+                                                 - Personbil -
+
+1459043 12:28:11 22-11-20 POCSAG-4  ALPHA  1200  Nivå 5 Larm stn 220
+                                                 Talgr : Jönk RAPS-16
+                                                 Prio : 1
+                                                 Trafikolycka - singel
+                                                 Personbil
+                                                 Övrigt
+                                                 Rödja 3
+                                                 Söder om N Sandsjö
+                                                 F4400
+                                                 Händelsebeskrivning : 1 pb voltat
+                                                 N=6364684 E=488093
+                                                 - Personbil -
+
+1459804 12:28:25 22-11-20 POCSAG-4  ALPHA  1200  Trafikolycka - singel Personbil Övrigt:Ärendenr: 16:3367606:2?
+                                                 SOS: Jönköping?
+                                                 2022-11-20 12:04:47?
+                                                 Räddning?
+                                                 Prio: 1?
+                                                 Trafikolycka - singel?
+                                                 Personbil?
+                                                 Övrigt?
+                                                 1 pb voltat?
+                                                 Rödja 3?
+                                                 ?
+                                                 Mellan Nässjö och Forserum?
+                                                 Landsbro- DRH?
+                                                 Kommun: Vetlanda?
+                                                 PosRef: 0?
+                                                 Pos: 6367027, 1439713?
+                                                 ?
+                                                 SOS Alarm - Ett tryggare Sverige för alla
+                                                 - Personbil -
+
+1459804 12:28:42 22-11-20 POCSAG-4  ALPHA  1200  Trafikolycka - singel Personbil Övrigt:Ärendenr: 16:3367606:2?
+                                                 SOS: Jönköping?
+                                                 2022-11-20 12:04:47?
+                                                 Räddning?
+                                                 Prio: 1?
+                                                 Trafikolycka - singel?
+                                                 Personbil?
+                                                 Övrigt?
+                                                 1 pb voltat?
+                                                 Rödja 3?
+                                                 ?
+                                                 Söder om N Sandsjö?
+                                                 Landsbro- DRH?
+                                                 Kommun: Vetlanda?
+                                                 PosRef: 0?
+                                                 Pos: 6367027, 1439713?
+                                                 ?
+                                                 SOS Alarm - Ett tryggare Sverige för alla
+                                                 - Personbil -
+
+1347464 12:29:25 22-11-20 POCSAG-1 NUMERIC 1200  092162747
+1459740 12:29:41 22-11-20 POCSAG-1 NUMERIC 1200  0471247707
+0766100 12:29:52 22-11-20 POCSAG-1 NUMERIC 1200  22706100
+1347464 12:30:25 22-11-20 POCSAG-1 NUMERIC 1200  092162747
+1357729 12:32:53 22-11-20 POCSAG-1 NUMERIC 1200  044200400
+1459108 12:33:51 22-11-20 POCSAG-1 NUMERIC 1200  0336162600
+1357729 12:33:53 22-11-20 POCSAG-1 NUMERIC 1200  044200400
+0766101 12:37:01 22-11-20 POCSAG-1 NUMERIC 1200  28034199
+
+1291405 12:38:31 22-11-20 POCSAG-4  ALPHA  1200  2022-11-20 12:37:20?
+                                                 AKTIVT?
+                                                 K348N03_F14//Vibrator Flygasksilo/New
+
+1459167 12:43:41 22-11-20 POCSAG-1 NUMERIC 1200  0706913696
+
+1293190 12:44:24 22-11-20 POCSAG-4  ALPHA  1200  2022 11 20 12:43:30 AKTIVT
+                                                 101 H3 52 0200 NODK LF
+                                                 Kompressor H33004A  Nödkyla aktiverad
+
+1331911 12:44:42 22-11-20 POCSAG-4  ALPHA  1200  12.43 A SLOT.P344:LU1.L Öppen skåpsdörr Gläntan
+
+1459167 12:44:43 22-11-20 POCSAG-1 NUMERIC 1200  0706913696
+
+1277918 12:45:06 22-11-20 POCSAG-4  ALPHA  1200  0313341019
+                                                 Knutna kundobjekt :
+
+1459540 12:46:01 22-11-20 POCSAG-2  ALPHA  1200  ?_?AoTP?oqå??Wbws??öF"?????G ?%_D5??dä*??h4xråöwMR?OZq;;^xr<#"?8??TdK ?<?m!4E??CF5/7Tw
+                                                 Ad;?*?-Q'Re6RQ??äd?3_R?+???lM?z4zDNnTV4?'Å?"JK?VZ8 q'V=)Y?ä??F=%NO>?z>8m?e+R?!-v7W??po5J*??s!?+h3?Tp"?xU?P=D+~?Än??nkYp?n??;J2WOz?O???öt6?L?:,^öx?W??Wrlj?/c??;nnö%ä???
+
+1459540 12:46:07 22-11-20 POCSAG-2  ALPHA  1200  /?~?JlM?>y,k?"?
+                                                 ?$&?Öv?>XtrV?NPÄ1U?lq?Ä%P&ÖL(?^u?gW<HÄåK?qÅ?Vb!M7t9n?:?4aME?U>?V??cKvx.~?Zb?>J%?v
+
+1277918 12:46:09 22-11-20 POCSAG-4  ALPHA  1200  0313341019
+                                                 Knutna kundobjekt :
+
+1459165 12:52:08 22-11-20 POCSAG-1 NUMERIC 1200  0706097770
+
+1459686 12:53:32 22-11-20 POCSAG-4  ALPHA  1200  Kvittera ärendet på: 0173-17500
+                                                 Fastigh.jour yttre
+                                                 Händelsebeskrivning : 
+                                                 H.beskr : Haft en fönsterrenovering som rasat utanför bygganden så man kommer inte ut från porten.
+                                                 Korpstigen 10 Huddinge
+                                                 Huddinge
+                                                 Ä Id : 2
+                                                 Best : Liselott Andersson
+                                                 Telefonnummer : 0707578132
+
+1459804 12:58:05 22-11-20 POCSAG-4  ALPHA  1200  Automatlarm Brand:Ärendenr: 16:3367620:1?
+                                                 SOS: Jönköping?
+                                                 2022-11-20 12:52:39?
+                                                 Räddning?
+                                                 Prio: 1?
+                                                 Automatlarm?
+                                                 Brand?
+                                                 ?
+                                                 ?
+                                                 Folkets Hus, Annexet, Egnahemsvägen 4?
+                                                 Larmnr: ***?
+                                                 Norrahammar?
+                                                 Norrahammar- DRH?
+                                                 Kommun: Jönköping?
+                                                 PosRef: 0?
+                                                 Pos: 6398408, 1399128?
+                                                 ?
+                                                 SOS Alarm - Ett tryggare Sverige för alla
+                                                 - Brand -
+
+1456790 13:01:44 22-11-20 POCSAG-4  ALPHA  1200  Från: contactcenter.oresecuritas.se
+                                                 Ämne: Provlarm
+
+1459692 13:01:54 22-11-20 POCSAG-1 NUMERIC 1200  32000
+
+1456790 13:02:44 22-11-20 POCSAG-4  ALPHA  1200  Från: contactcenter.oresecuritas.se
+                                                 Ämne: Provlarm
+
+1459692 13:02:54 22-11-20 POCSAG-1 NUMERIC 1200  32000
+1458407 13:07:58 22-11-20 POCSAG-1 NUMERIC 1200  033207999
+1357729 13:14:39 22-11-20 POCSAG-1 NUMERIC 1200  044200400
+1356196 13:17:43 22-11-20 POCSAG-1 NUMERIC 1200  0480448579
+1457300 13:18:32 22-11-20 POCSAG-1 NUMERIC 1200  023490488
+1457300 13:21:58 22-11-20 POCSAG-1 NUMERIC 1200  0243497378
+
+1293190 13:23:19 22-11-20 POCSAG-4  ALPHA  1200  2022 11 20 13:22:22 AKTIVT
+                                                 101 H3 52 0200 ADT 01 LF
+                                                 Kompressor H33004A  Adsorptionstork är avstängd
+
+1332389 13:24:05 22-11-20 POCSAG-1 NUMERIC 1200  0470-21760
+1459562 13:24:28 22-11-20 POCSAG-1 NUMERIC 1200  0707766649
+0766100 13:25:00 22-11-20 POCSAG-1 NUMERIC 1200  28842298
+1332389 13:25:05 22-11-20 POCSAG-1 NUMERIC 1200  0470-21760
+1457300 13:27:26 22-11-20 POCSAG-1 NUMERIC 1200  0243497381
+0669770 13:27:30 22-11-20 POCSAG-1 NUMERIC 1200  092014830
+
+1459540 13:30:38 22-11-20 POCSAG-2  ALPHA  1200  )9NS?2nFB/?IC?o=?.???%=ÅxByWj?^uNU?Jh+/C?, ?f?ndj,?$Sr@?J,H?)!<c??a?A6Åud.Syc?UmFJ(???a?cq?Y??OIv?JMsqiH<?J??Å a4I?,?$?R"9:S?Ö1~Ää??t6?y?5W#?eS??Ö;M?+
+
+1459108 13:31:47 22-11-20 POCSAG-1 NUMERIC 1200  0322226733
+
+1459686 13:35:00 22-11-20 POCSAG-4  ALPHA  1200  Kvittera ärendet på: 0173-17500
+                                                 Fastigh.jour el
+                                                 Händelsebeskrivning : 
+                                                 H.beskr : Halva lägenheten är strömlös, bland annat köket.
+                                                 Provat att byta säkringarna men det löser ej problemet
+                                                 Bäckgårdsvägen 26, Lghnr:1407 VÅRBY
+                                                 Huddinge
+                                                 Ä Id : 2
+                                                 Best : Mary Miles
+                                                 Telefonnummer : 0736165103
+
+1331434 13:35:36 22-11-20 POCSAG-4  ALPHA  1200  Kontakta SOS 0470-217 60
+                                                 Larmande objekt : G-PC Kungsmarken
+                                                 Typ av larm : Driftlarm
+
+1357312 13:35:43 22-11-20 POCSAG-4  ALPHA  1200  Från: Active.Expertsiver.se
+                                                 Ämne: Failure:  C:SWEGON  Swegon - Prod - GRID - Appstatus SLA 24/7 ASSIGNEDTO:SPECIALISTS POWER 
+                                                 Message from IACTX-PRD01 on iVer?
+                                                 22-11-20 13:35:17?
+                                                 ?
+                                                 Notes::?
+                                                      -- Swegon har underhåll 3:e söndagen varje månad 9-15. -----------------------------------------------------------------------------------------?
+                                                   LARMM3STATUS%20OR%20LARMGRID?
+                                                 Url?
+                                                 http://SEALIM3BE0
+
+1277918 13:35:47 22-11-20 POCSAG-4  ALPHA  1200  0313341019
+                                                 Knutna kundobjekt :
+
+1459686 13:36:00 22-11-20 POCSAG-4  ALPHA  1200  Kvittera ärendet på: 0173-17500
+                                                 Fastigh.jour el
+                                                 Händelsebeskrivning : 
+                                                 H.beskr : Halva lägenheten är strömlös, bland annat köket.
+                                                 Provat att byta säkringarna men det löser ej problemet
+                                                 Bäckgårdsvägen 26, Lghnr:1407 VÅRBY
+                                                 Huddinge
+                                                 Ä Id : 2
+                                                 Best : Mary Miles
+                                                 Telefonnummer : 0736165103
+
+1277918 13:36:47 22-11-20 POCSAG-4  ALPHA  1200  0313341019
+                                                 Knutna kundobjekt :
+
+1357312 13:37:24 22-11-20 POCSAG-4  ALPHA  1200  Från: Active.Expertsiver.se
+                                                 Ämne: Failure:  C:SWEGON  Swegon - Prod - GRID - Autojobs SLA 24/7 ASSIGNEDTO:SPECIALISTS POWER 
+                                                 Message from IACTX-PRD01 on iVer?
+                                                 22-11-20 13:36:58?
+                                                 ?
+                                                 Notes::?
+                                                      -- Swegon har underhåll 3:e söndagen varje månad 9-15. --?
+                                                 -------------------------------------------------------------------------------------------?
+                                                 Dokumentation: SOP5984?
+                                                 Item:?
+                                                      C:SWEGON  Swe
+
+1458684 13:38:47 22-11-20 POCSAG-4  ALPHA  1200  Kontakta SOS 0490-104 08
+                                                 Objekt : 
+                                                 Typ av larm : 
+                                                 Address : Västrum Olstorp
+                                                 Ort : 
+                                                 Händelse : Eldistribution
+                                                 Träd över ledning
+
+1458133 13:39:20 22-11-20 POCSAG-1 NUMERIC 1200  0702548366
+
+1458684 13:39:47 22-11-20 POCSAG-4  ALPHA  1200  Kontakta SOS 0490-104 08
+                                                 Objekt : 
+                                                 Typ av larm : 
+                                                 Address : Västrum Olstorp
+                                                 Ort : 
+                                                 Händelse : Eldistribution
+                                                 Träd över ledning
+
+1331434 13:39:56 22-11-20 POCSAG-4  ALPHA  1200  Kontakta SOS 0470-217 60
+                                                 Larmande objekt : G-PC Kungsmarken
+                                                 Typ av larm : Driftlarm
+
+0555251 13:40:14 22-11-20 POCSAG-1 NUMERIC 1200  133U0703123527
+0583078 13:41:50 22-11-20 POCSAG-1 NUMERIC 1200  0766105354
+
+1459804 13:43:13 22-11-20 POCSAG-4  ALPHA  1200  Automatlarm Brand:Ärendenr: 16:3367636:1?
+                                                 SOS: Jönköping?
+                                                 2022-11-20 13:37:48?
+                                                 Räddning?
+                                                 Prio: 1?
+                                                 Automatlarm?
+                                                 Brand?
+                                                 ?
+                                                 ?
+                                                 Rydaholms skola, Alvestavägen 6?
+                                                 Nyckelbox?
+                                                 Rydaholm?
+                                                 Rydaholm- DRH?
+                                                 Kommun: Värnamo?
+                                                 PosRef: 0?
+                                                 Pos: 6318698, 1408921?
+                                                 ?
+                                                 SOS Alarm - Ett tryggare Sverige för alla
+                                                 - Brand -
+
+1334618 13:47:37 22-11-20 POCSAG-1 NUMERIC 1200  0500431143
+
+1459686 13:50:49 22-11-20 POCSAG-4  ALPHA  1200  Kvittera ärendet på: 0173-17500
+                                                 Fastigh.jour övrigt
+                                                 Händelsebeskrivning : 
+                                                 H.beskr : Ett träd har delats i mitten och fallit på vägen.   
+                                                 Ligger inte på en väg som hinder utan har fallit ner på gräsmattan, oklart om risk finns att andra delen av trädet ramlar
+                                                 Härbrevägen 11
+                                                 Skogås
+                                                 Huddinge
+                                                 Ä Id : 2
+                                                 Best : Kristin Ek
+                                                 Telefonnummer : 0723269266
+
+1457692 13:53:03 22-11-20 POCSAG-1 NUMERIC 1200  0104705119
+
+1458557 13:56:25 22-11-20 POCSAG-4  ALPHA  1200  AMS larm
+                                                 Nr: 1500
+                                                 Tillstånd: ALUNACK
+                                                 Tid: 14:12
+                                                 Obj: =E4+A1-K1501Q1
+                                                 Område: Flispanna_2
+                                                 Beskr: Pann: Säkkerhetskrets
+                                                 Text: Priotet A - Alarm
+
+1458557 13:56:33 22-11-20 POCSAG-4  ALPHA  1200  AMS larm
+                                                 Nr: 1430
+                                                 Tillstånd: ALUNACK
+                                                 Tid: 14:12
+                                                 Obj: =E4+A1-M432
+                                                 Område: Flispanna_2
+                                                 Beskr: Rökgasfläkt
+                                                 Text: Fejl på frekvensomformer
+
+1458557 13:56:40 22-11-20 POCSAG-4  ALPHA  1200  AMS larm
+                                                 Nr: 1430
+                                                 Tillstånd: ALUNACK
+                                                 Tid: 14:12
+                                                 Obj: =E4+A1-M442
+                                                 Område: Flispanna_2
+                                                 Beskr: Sekundärfläkt 1 & 2
+                                                 Text: Fejl på frekvensomformer
+
+1458557 13:56:47 22-11-20 POCSAG-4  ALPHA  1200  AMS larm
+                                                 Nr: 1430
+                                                 Tillstånd: ALUNACK
+                                                 Tid: 14:12
+                                                 Obj: =E4+A1-M462
+                                                 Område: Flispanna_2
+                                                 Beskr: Primärfläkt
+                                                 Text: Fejl på frekvensomformer
+
+1298402 13:57:04 22-11-20 POCSAG-4  ALPHA  1200  42 2022-11-20 13:56:41  A Håckla RV/800 Gashantering/GD82072 A SF --- HÅCKLA RV: GD82072 Larm utebliven mA-signal utlöses  (ID=608)
+
+1298402 13:57:16 22-11-20 POCSAG-4  ALPHA  1200  43 2022-11-20 13:56:42  B Håckla RV/Elkraft AS5/AS5 IO A1 5 XA --- Håckla RV: AS5 Summalarm IO-Kort A1.5 utlöses  (ID=599)
+
+1458557 13:57:29 22-11-20 POCSAG-4  ALPHA  1200  AMS larm
+                                                 Nr: 1500
+                                                 Tillstånd: ALUNACK
+                                                 Tid: 14:12
+                                                 Obj: =E4+A1-S1576
+                                                 Område: Flispanna_2
+                                                 Beskr: Lågt tryck panna
+                                                 Text: Priotet A - Alarm
+
+1345603 14:00:33 22-11-20 POCSAG-4  ALPHA  1200  iFix-larm: Detta larm skickas en gång / dygn. TESTLARM
+
+1459615 14:00:39 22-11-20 POCSAG-4  ALPHA  1200  2A A-LARM TEST Digital Input ON - should be off,den 20 november 2022 14:00:00 BioInvent Duc-> 11 AS1 I44
+
+1459167 14:01:21 22-11-20 POCSAG-1 NUMERIC 1200  0761103444
+
+1331434 14:03:06 22-11-20 POCSAG-4  ALPHA  1200  Kontakta SOS 0470-217 60
+                                                 Larmande objekt : G-PC Kungsmarken
+                                                 Typ av larm : Driftlarm
+
+1459615 14:06:39 22-11-20 POCSAG-4  ALPHA  1200  2A A-LARM TEST Clear Digital Input,den 20 november 2022 14:06:00 BioInvent Duc-> 11 AS1 I44
+
+1342510 14:07:11 22-11-20 POCSAG-1 NUMERIC 1200  0910771161
+
+1458684 14:09:48 22-11-20 POCSAG-4  ALPHA  1200  Kontakta SOS 0490-104 08
+                                                 Objekt : 
+                                                 Typ av larm : 
+                                                 Address : Gunnebo med omnejd
+                                                 Ort : Gunnebo
+                                                 Händelse : Eldistribution
+                                                 Helt utan
+
+1335004 14:11:59 22-11-20 POCSAG-4  ALPHA  1200  Resurslarm DRH
+                                                 Talgr : Jönk RAPS-20
+                                                 Prio : 1
+                                                 Trafikolycka - flera fordon
+                                                 Personbil
+                                                 Övrigt
+                                                 V 132
+                                                 F1300
+                                                 Händelsebeskrivning : 2 pb i frontal krock
+                                                 N=6404265 E=476968 
+                                                 Knuten resurs: : 243-1080
+                                                 Knuten resurs: : 243-6708
+                                                 Knuten resurs: : 243-6710
+                                                 Knuten resurs: : 243-6740
+                                                 Knuten resurs: : 243-67FL
+                                                 Knuten resurs: : 343-9120
+                                                 Knuten resurs: : 343-9160
+                                                 Knuten resurs: : 343-9210
+                                                 Knuten resurs: : 343-9220
+                                                 - Personbil -
+
+1459108 14:12:07 22-11-20 POCSAG-1 NUMERIC 1200  032226733
+
+1458557 14:12:26 22-11-20 POCSAG-4  ALPHA  1200  AMS larm
+                                                 Nr: 1500
+                                                 Tillstånd: ALUNACK
+                                                 Tid: 14:12
+                                                 Obj: =E4+A1-K1501Q1
+                                                 Område: Flispanna_2
+                                                 Beskr: Pann: Säkkerhetskrets
+                                                 Text: Priotet A - Alarm
+
+1458557 14:12:33 22-11-20 POCSAG-4  ALPHA  1200  AMS larm
+                                                 Nr: 1430
+                                                 Tillstånd: ALUNACK
+                                                 Tid: 14:12
+                                                 Obj: =E4+A1-M432
+                                                 Område: Flispanna_2
+                                                 Beskr: Rökgasfläkt
+                                                 Text: Fejl på frekvensomformer
+
+1458557 14:12:41 22-11-20 POCSAG-4  ALPHA  1200  AMS larm
+                                                 Nr: 1430
+                                                 Tillstånd: ALUNACK
+                                                 Tid: 14:12
+                                                 Obj: =E4+A1-M442
+                                                 Område: Flispanna_2
+                                                 Beskr: Sekundärfläkt 1 & 2
+                                                 Text: Fejl på frekvensomformer
+
+1458557 14:12:48 22-11-20 POCSAG-4  ALPHA  1200  AMS larm
+                                                 Nr: 1430
+                                                 Tillstånd: ALUNACK
+                                                 Tid: 14:12
+                                                 Obj: =E4+A1-M462
+                                                 Område: Flispanna_2
+                                                 Beskr: Primärfläkt
+                                                 Text: Fejl på frekvensomformer
+
+1335004 14:12:59 22-11-20 POCSAG-4  ALPHA  1200  Resurslarm DRH
+                                                 Talgr : Jönk RAPS-20
+                                                 Prio : 1
+                                                 Trafikolycka - flera fordon
+                                                 Personbil
+                                                 Övrigt
+                                                 V 132
+                                                 F1300
+                                                 Händelsebeskrivning : 2 pb i frontal krock
+                                                 N=6404265 E=476968 
+                                                 Knuten resurs: : 243-1080
+                                                 Knuten resurs: : 243-6708
+                                                 Knuten resurs: : 243-6710
+                                                 Knuten resurs: : 243-6740
+                                                 Knuten resurs: : 243-67FL
+                                                 Knuten resurs: : 343-9120
+                                                 Knuten resurs: : 343-9160
+                                                 Knuten resurs: : 343-9210
+                                                 Knuten resurs: : 343-9220
+                                                 - Personbil -
+
+1458557 14:13:28 22-11-20 POCSAG-4  ALPHA  1200  AMS larm
+                                                 Nr: 1500
+                                                 Tillstånd: ALUNACK
+                                                 Tid: 14:12
+                                                 Obj: =E4+A1-S1576
+                                                 Område: Flispanna_2
+                                                 Beskr: Lågt tryck panna
+                                                 Text: Priotet A - Alarm
+
+1334608 14:13:46 22-11-20 POCSAG-4  ALPHA  1200  Kontakta SOS vid tillfälle 0313341909
+
+1459804 14:15:02 22-11-20 POCSAG-4  ALPHA  1200  Trafikolycka - flera fordon Personbil Övrigt:Ärendenr: 16:3367646:2?
+                                                 SOS: Jönköping?
+                                                 2022-11-20 14:09:30?
+                                                 Räddning?
+                                                 Prio: 1?
+                                                 Trafikolycka - flera fordon?
+                                                 Personbil?
+                                                 Övrigt?
+                                                 2 pb i frontal krock?
+                                                 V 132?
+                                                 ?
+                                                 .?
+                                                 Huskvarna- DRH?
+                                                 Kommun: Jönköping?
+                                                 PosRef: 0?
+                                                 Pos: 6406756, 1429055?
+                                                 ?
+                                                 SOS Alarm - Ett tryggare Sverige för alla
+                                                 - Personbil -
+
+1459413 14:16:45 22-11-20 POCSAG-4  ALPHA  1200  Kvittera ärendet på: 0173-17500
+                                                 Fastigh.jour värme/vent.
+                                                 Händelsebeskrivning : 
+                                                 H.beskr : Tierpsbyggen. Luftvärmepumpen har stannat. Lyser rött på den. Har enbart 19 grader i nuläget.
+                                                 Bivägen 11, egen ingång, Skärplinge
+                                                 Skärplinge
+                                                 Tierp
+                                                 Ä Id : 2
+                                                 Best : Gunnar Åberg
+                                                 Telefonnummer : 0701801385
+
+1459337 14:17:56 22-11-20 POCSAG-1 NUMERIC 1200  040-676 92 91
+
+1457020 14:18:23 22-11-20 POCSAG-4  ALPHA  1200  Hög nivå Brandsbo HR  20/11 14:17
+                                                 - Brand -
+
+0615915 14:18:57 22-11-20 POCSAG-1 NUMERIC 1200  0704076726
+0562880 14:19:11 22-11-20 POCSAG-1 NUMERIC 1200  1234
+
+1457020 14:19:23 22-11-20 POCSAG-4  ALPHA  1200  Hög nivå Brandsbo HR  20/11 14:17
+                                                 - Brand -
+
+0615915 14:19:57 22-11-20 POCSAG-1 NUMERIC 1200  0704076726
+1279283 14:20:09 22-11-20 POCSAG-1 NUMERIC 1200  46761141441
+1335048 14:26:17 22-11-20 POCSAG-1 NUMERIC 1200  0812368613
+1350125 14:26:51 22-11-20 POCSAG-1 NUMERIC 1200  048081141
+1335048 14:27:17 22-11-20 POCSAG-1 NUMERIC 1200  0812368613
+0763089 14:28:00 22-11-20 POCSAG-1 NUMERIC 1200  4121399
+0763089 14:28:51 22-11-20 POCSAG-1 NUMERIC 1200  41213199
+
+1459044 14:30:20 22-11-20 POCSAG-4  ALPHA  1200  11/20/22 14:30:00;;Automatiskt test av SMS sändare; Ack: 03b0
+
+1353196 14:35:24 22-11-20 POCSAG-4  ALPHA  1200  A
+                                                 <JOUR_VAT_KVIT_EJ>
+                                                 Jour Vatten kvitterar ej larm
+                                                 20/11 14:33
+
+0766107 14:37:10 22-11-20 POCSAG-1 NUMERIC 1200  16304100
+1335048 14:40:44 22-11-20 POCSAG-1 NUMERIC 1200  0812368613
+1457300 14:41:03 22-11-20 POCSAG-1 NUMERIC 1200  023490488
+1335048 14:41:44 22-11-20 POCSAG-1 NUMERIC 1200  0812368613
+
+1456820 14:41:54 22-11-20 POCSAG-4  ALPHA  1200  Message Description=S7301 Summalarm Elpanna 1; Ack: 7b39
+
+1355441 14:45:11 22-11-20 POCSAG-1 NUMERIC 1200  0102223000
+
+1459413 14:45:22 22-11-20 POCSAG-4  ALPHA  1200  Kvittera ärendet på: 0173-17500
+                                                 Fastigh.jour vatten/avlopp
+                                                 Händelsebeskrivning : 
+                                                 H.beskr : Vattenläcka i badrummet, oklart vart läckaget kommer ifrån, ska täcka cirka 50% av badrumsgolvet och det ska låta som om att vattnet rinner undan. Inringare kan ej åtgärda detta på eget bevåg.
+                                                 Gustavsgatan 5, Tierp
+                                                 Tierp
+                                                 Tierp
+                                                 Ä Id : 2
+                                                 Best : Emma Lindström
+                                                 Telefonnummer : 0720267286
+
+1459686 14:48:27 22-11-20 POCSAG-4  ALPHA  1200  Kvittera ärendet på: 0173-17500
+                                                 Fastigh.jour vatten/avlopp
+                                                 Händelsebeskrivning : 
+                                                 H.beskr : Stopp i toaletten, rinner sakta undan.  
+                                                 Oklart om något sitter fast.
+                                                 Solhagavägen 8, lgh 3462,Masmo, Huddinge
+                                                 Masmo
+                                                 Huddinge
+                                                 Ä Id : 2
+                                                 Best : Ingrin Blomkvist
+                                                 Telefonnummer : 0736747595
+
+1459108 14:49:16 22-11-20 POCSAG-1 NUMERIC 1200  0336163107
+
+1459686 14:49:27 22-11-20 POCSAG-4  ALPHA  1200  Kvittera ärendet på: 0173-17500
+                                                 Fastigh.jour vatten/avlopp
+                                                 Händelsebeskrivning : 
+                                                 H.beskr : Stopp i toaletten, rinner sakta undan.  
+                                                 Oklart om något sitter fast.
+                                                 Solhagavägen 8, lgh 3462,Masmo, Huddinge
+                                                 Masmo
+                                                 Huddinge
+                                                 Ä Id : 2
+                                                 Best : Ingrin Blomkvist
+                                                 Telefonnummer : 0736747595
+
+1459804 14:51:36 22-11-20 POCSAG-4  ALPHA  1200  Trafikolycka - singel Personbil Mötesfri väg:Ärendenr: 16:3367661:2?
+                                                 SOS: Jönköping?
+                                                 2022-11-20 14:46:07?
+                                                 Räddning?
+                                                 Prio: 1?
+                                                 Trafikolycka - singel?
+                                                 Personbil?
+                                                 Mötesfri väg?
+                                                 1 pb voltat, kört av vägen?
+                                                 väg 40?
+                                                 ?
+                                                 mot jkpg?
+                                                 Bottnaryd- DRH?
+                                                 Kommun: Jönköping?
+                                                 PosRef: 0?
+                                                 Pos: 6405203, 1392631?
+                                                 ?
+                                                 SOS Alarm - Ett tryggare Sverige för alla
+                                                 - Personbil -
+
+0766107 14:51:45 22-11-20 POCSAG-1 NUMERIC 1200  14184199
+
+1459804 14:52:36 22-11-20 POCSAG-4  ALPHA  1200  Trafikolycka - singel Personbil Mötesfri väg:Ärendenr: 16:3367661:2?
+                                                 SOS: Jönköping?
+                                                 2022-11-20 14:46:07?
+                                                 Räddning?
+                                                 Prio: 1?
+                                                 Trafikolycka - singel?
+                                                 Personbil?
+                                                 Mötesfri väg?
+                                                 1 pb voltat, kört av vägen?
+                                                 väg 40?
+                                                 ?
+                                                 mot jkpg?
+                                                 Bottnaryd- DRH?
+                                                 Kommun: Jönköping?
+                                                 PosRef: 0?
+                                                 Pos: 6405203, 1392631?
+                                                 ?
+                                                 SOS Alarm - Ett tryggare Sverige för alla
+                                                 - Personbil -
+
+1457692 14:55:03 22-11-20 POCSAG-1 NUMERIC 1200  0734258683
+1355305 14:55:34 22-11-20 POCSAG-1 NUMERIC 1200  8 0704317641
+0627056 14:56:31 22-11-20 POCSAG-1 NUMERIC 1200  0703170912
+
+1459144 14:59:21 22-11-20 POCSAG-2  ALPHA  1200  K??0Ä?<Vn??N
+                                                 RfiqOJ?biD?c?@>0F:Ywån?(ÄY?UöYrxPalR?-??
+
+1331525 15:00:41 22-11-20 POCSAG-4  ALPHA  1200  Kontakta SOS vid tillfälle 031-7031341
+
+1334692 15:04:26 22-11-20 POCSAG-1 NUMERIC 1200  0705986319
+1334692 15:04:27 22-11-20 POCSAG-4  ALPHA  1200  0705986319
+
+1459804 15:09:37 22-11-20 POCSAG-4  ALPHA  1200  Automatlarm Brand:Ärendenr: 16:3367670:1?
+                                                 SOS: Jönköping?
+                                                 2022-11-20 15:04:14?
+                                                 Räddning?
+                                                 Prio: 1?
+                                                 Automatlarm?
+                                                 Brand?
+                                                 ?
+                                                 ?
+                                                 Storgatan 6?
+                                                 S43?
+                                                 Skillingaryd?
+                                                 Skillingaryd- DRH?
+                                                 Kommun: Vaggeryd?
+                                                 PosRef: 0?
+                                                 Pos: 6368338, 1397223?
+                                                 ?
+                                                 SOS Alarm - Ett tryggare Sverige för alla
+                                                 - Brand -
+
+1298402 15:10:16 22-11-20 POCSAG-4  ALPHA  1200  45 2022-11-20 15:09:54  B Björsäter/HR/FM701 SF --- BJÖRSÄTERS HR: FM701 Signalfel utlöses  (ID=196)
+
+1298402 15:10:28 22-11-20 POCSAG-4  ALPHA  1200  46 2022-11-20 15:09:54  B Björsäter/HR/FM702 SF --- BJÖRSÄTERS HR: FM702 Signalfel utlöses  (ID=197)
+
+1459804 15:10:37 22-11-20 POCSAG-4  ALPHA  1200  Automatlarm Brand:Ärendenr: 16:3367670:1?
+                                                 SOS: Jönköping?
+                                                 2022-11-20 15:04:14?
+                                                 Räddning?
+                                                 Prio: 1?
+                                                 Automatlarm?
+                                                 Brand?
+                                                 ?
+                                                 ?
+                                                 Storgatan 6?
+                                                 S43?
+                                                 Skillingaryd?
+                                                 Skillingaryd- DRH?
+                                                 Kommun: Vaggeryd?
+                                                 PosRef: 0?
+                                                 Pos: 6368338, 1397223?
+                                                 ?
+                                                 SOS Alarm - Ett tryggare Sverige för alla
+                                                 - Brand -
+
+1343743 15:11:09 22-11-20 POCSAG-4  ALPHA  1200  2022-11-20 15:09:08?
+                                                 AKTIVT   ?
+                                                 F14V121-UF-GL01-Bunge vattenverk/Låg nivå*Vi*
+
+1459579 15:11:34 22-11-20 POCSAG-4  ALPHA  1200  Akut ärende Samhällsjour Bo Kuylenstierna 0702994605, Färgargatan 12, slukhål i gatan bredvid brunnslock
+
+1298402 15:12:20 22-11-20 POCSAG-4  ALPHA  1200  47 2022-11-20 15:11:58  B Björsäter/HR/EV01 NF --- BJÖRSÄTERS HR: Nätfel <1min utlöses  (ID=221)
+
+1459579 15:12:34 22-11-20 POCSAG-4  ALPHA  1200  Akut ärende Samhällsjour Bo Kuylenstierna 0702994605, Färgargatan 12, slukhål i gatan bredvid brunnslock
+
+0695409 15:12:35 22-11-20 POCSAG-1 NUMERIC 1200  133U0723530555
+1350125 15:13:04 22-11-20 POCSAG-1 NUMERIC 1200  048081141
+
+1298402 15:13:15 22-11-20 POCSAG-4  ALPHA  1200  48 2022-11-20 15:12:53  B Björsäter/HR/EV01 NA --- BJÖRSÄTERS HR: Nätavbrott >1min utlöses  (ID=222)
+
+1271849 15:13:31 22-11-20 POCSAG-4  ALPHA  1200  Grästorp B larm
+
+1298402 15:15:31 22-11-20 POCSAG-4  ALPHA  1200  49 2022-11-20 15:15:08  A Björsäter/RV/FASBROTT --- BJÖRSÄTERS RV: Fasbrott A utlöses  (ID=310)
+
+1274068 15:17:29 22-11-20 POCSAG-4  ALPHA  1200  iFix-larm: TEST AV LARMUTSÄNDNING FRÅN FIX A-LARM
+
+1331911 15:17:43 22-11-20 POCSAG-4  ALPHA  1200  Q4501-Pump 1- utpumpning - Nödpumpning SP327$Ribbingsholm/1_01_PU001 11/20/2022 3:16:08 PM
+
+1331911 15:17:59 22-11-20 POCSAG-4  ALPHA  1200  Q4502-Pump 3 - Utpumpning - Nödpumpning SP327$Ribbingsholm/1_01_PU003 11/20/2022 3:16:39 PM
+
+2007554 15:18:00 22-11-20 POCSAG-1 NUMERIC 1200  TONE ONLY
+
+1331911 15:18:05 22-11-20 POCSAG-4  ALPHA  1200  Meldung gegangen: Pump 1- utpumpning - Nödpumpning SP327$Ribbingsholm/1_01_PU001 11/20/2022 3:16:08 PM
+
+1356392 15:18:19 22-11-20 POCSAG-1 NUMERIC 1200  0186117919
+
+1331911 15:19:06 22-11-20 POCSAG-4  ALPHA  1200  Q4504-Pump 1- utpumpning - Nödpumpning SP327$Ribbingsholm/1_01_PU001 11/20/2022 3:17:44 PM
+
+1459540 15:20:40 22-11-20 POCSAG-2  ALPHA  1200  :g<Z3?To>1cW+7> XAca?Ö??G@måqyU?mG?"e?ob???dr?åCRl
+                                                 aF'vr?nB???t?30f.?ä$gW?a.b?EmH%?CB4?Z%äh:`J3F?$Ä%??YH'eKz?lF?^<i#n6?pJG>^G!?Wovia@?iC~zq?tH6v??=6?ag._??r$mY^?5vwxc??X?jg??^OO?Ä?P???+#å?I?Udda
+                                                 HU2)4R?_G/
+
+1298402 15:20:45 22-11-20 POCSAG-4  ALPHA  1200  50 2022-11-20 15:20:22  B Björsäter/HR/FM701 SF --- BJÖRSÄTERS HR: FM701 Signalfel återutlöses  (ID=196)
+
+1298402 15:21:10 22-11-20 POCSAG-4  ALPHA  1200  51 2022-11-20 15:20:22  B Björsäter/HR/FM702 SF --- BJÖRSÄTERS HR: FM702 Signalfel återutlöses  (ID=197)
+
+1298402 15:21:23 22-11-20 POCSAG-4  ALPHA  1200  52 2022-11-20 15:20:54  B Björsäter/HR/FM702 SF --- BJÖRSÄTERS HR: FM702 Signalfel återutlöses  (ID=197)
+
+0771659 15:21:43 22-11-20 POCSAG-1 NUMERIC 1200  1234
+
+1331911 15:22:41 22-11-20 POCSAG-4  ALPHA  1200  Q4505-Pump 1- utpumpning - Nödpumpning SP327$Ribbingsholm/1_01_PU001 11/20/2022 3:21:21 PM
+
+1458557 15:23:17 22-11-20 POCSAG-4  ALPHA  1200  2022-11-20 15:21?
+                                                 A  Sunhult VV, Uteblivet flöde FV1 utlöses.
+
+1356294 15:24:02 22-11-20 POCSAG-1 NUMERIC 1200  048045232
+1356392 15:24:48 22-11-20 POCSAG-1 NUMERIC 1200  0186117917
+0686565 15:25:04 22-11-20 POCSAG-1 NUMERIC 1200  51U133U0705868698
+1356196 15:26:06 22-11-20 POCSAG-1 NUMERIC 1200  048045232
+1350125 15:27:53 22-11-20 POCSAG-1 NUMERIC 1200  0480448207
+1459040 15:28:22 22-11-20 POCSAG-1 NUMERIC 1200  0243497378
+
+1459540 15:31:36 22-11-20 POCSAG-2  ALPHA  1200  ?
+                                                 ^??zBz=Ng%OK5@;c??'aå5=L?EF?<??E??iE??%jX??D?N?GÅ4?@??I?b/_`NÄK)A++Uoz?D?
+                                                 u?1?$Aksö
+                                                 t7#~EV?p?Ö:EÄ?A<
+                                                 ?3?vfG>Ag"?/.??Åc&.UGU2Å?6rpQ wA???3
+                                                 5oRo=8w^V0dI3?^K`Udf5?K,?*?^)?j?C0V??OsÄa~?9 _b1e+r(Åy;v
+
+0763090 15:32:40 22-11-20 POCSAG-1 NUMERIC 1200  89870101
+
+1334692 15:32:42 22-11-20 POCSAG-4  ALPHA  1200  024870508
+1334692 15:32:43 22-11-20 POCSAG-1 NUMERIC 1200  024870508
+1335048 15:32:44 22-11-20 POCSAG-1 NUMERIC 1200  0812368613
+1458133 15:32:58 22-11-20 POCSAG-1 NUMERIC 1200  00498201255
+
+1334692 15:33:42 22-11-20 POCSAG-4  ALPHA  1200  024870508
+
+1335048 15:33:44 22-11-20 POCSAG-1 NUMERIC 1200  0812368613
+1458133 15:34:32 22-11-20 POCSAG-1 NUMERIC 1200  00498201255
+0724211 15:35:33 22-11-20 POCSAG-1 NUMERIC 1200  133U0706953287
+0686565 15:39:04 22-11-20 POCSAG-1 NUMERIC 1200  52U133U0705868698
+0724211 15:40:23 22-11-20 POCSAG-1 NUMERIC 1200  133U0705702814
+
+1459540 15:42:03 22-11-20 POCSAG-2  ALPHA  1200  -Öm?nc84ccxÅp?d:?@ssz=
+
+1459558 15:42:37 22-11-20 POCSAG-1 NUMERIC 1200  626300
+1355305 15:44:24 22-11-20 POCSAG-1 NUMERIC 1200  9 0704317641
+1459741 15:45:13 22-11-20 POCSAG-1 NUMERIC 1200  0470-204 42
+1350125 15:45:23 22-11-20 POCSAG-1 NUMERIC 1200  048081197
+1459741 15:46:13 22-11-20 POCSAG-1 NUMERIC 1200  0470-204 42
+
+1277918 15:46:21 22-11-20 POCSAG-4  ALPHA  1200  2022 11 20 15:43:45 AKTIVT    Slutarp//Grupplarm E/Larm
+
+1277918 15:46:34 22-11-20 POCSAG-4  ALPHA  1200  2022 11 20 15:43:45 AKTIVT    Slutarp H25//Överström I> start/Larm
+
+1277918 15:47:00 22-11-20 POCSAG-4  ALPHA  1200  2022 11 20 15:43:45 AKTIVT    Slutarp H25//Överström I>> start/Larm
+
+1277918 15:47:21 22-11-20 POCSAG-4  ALPHA  1200  2022 11 20 15:43:45 AKTIVT    Slutarp//Grupplarm E/Larm
+
+1277918 15:47:31 22-11-20 POCSAG-4  ALPHA  1200  2022 11 20 15:43:45 AKTIVT    Slutarp//Grupplarm C/Larm
+
+1277918 15:47:34 22-11-20 POCSAG-4  ALPHA  1200  2022 11 20 15:43:45 AKTIVT    Slutarp H25//Överström I> start/Larm
+
+1277918 15:47:53 22-11-20 POCSAG-4  ALPHA  1200  2022 11 20 15:43:45 AKTIVT    Slutarp H25//Överström I>> utlöst/Larm
+
+1277918 15:48:00 22-11-20 POCSAG-4  ALPHA  1200  2022 11 20 15:43:45 AKTIVT    Slutarp H25//Överström I>> start/Larm
+
+1277918 15:48:20 22-11-20 POCSAG-4  ALPHA  1200  2022 11 20 15:43:45 AKTIVT    Slutarp H25//Misslyckad ÅI/Larm
+
+1277918 15:48:31 22-11-20 POCSAG-4  ALPHA  1200  2022 11 20 15:43:45 AKTIVT    Slutarp//Grupplarm C/Larm
+
+1277918 15:48:53 22-11-20 POCSAG-4  ALPHA  1200  2022 11 20 15:43:45 AKTIVT    Slutarp H25//Överström I>> utlöst/Larm
+
+1277918 15:49:20 22-11-20 POCSAG-4  ALPHA  1200  2022 11 20 15:43:45 AKTIVT    Slutarp H25//Misslyckad ÅI/Larm
+
+1277918 15:49:23 22-11-20 POCSAG-4  ALPHA  1200  2022 11 20 15:47:23 AKTIVT    Slutarp//Reserv/Larm
+
+1294628 15:50:03 22-11-20 POCSAG-1 NUMERIC 1200  0104706990
+
+1277918 15:50:22 22-11-20 POCSAG-4  ALPHA  1200  2022 11 20 15:47:23 AKTIVT    Slutarp//Reserv/Larm
+
+1459741 15:50:52 22-11-20 POCSAG-1 NUMERIC 1200  0470-204 42
+1294628 15:51:03 22-11-20 POCSAG-1 NUMERIC 1200  0104706990
+1457300 15:56:35 22-11-20 POCSAG-1 NUMERIC 1200  00226496202
+
+1458416 15:56:49 22-11-20 POCSAG-4  ALPHA  1200  12 Gatuaddress : Solhagavägen 32, lgh 3772, HUDDINGE
+                                                 Ort : Masmo
+                                                 Fastigh.jour störande grannar
+                                                 Övrigt
+                                                 Beställare : Gullis Kulbay
+                                                 Telefonnummer : 0704001517
+                                                 Ärende nr: : 2
+                                                 Händelsebeskrivning : 
+                                                 Ärendebeskrivning : En person ligger i källaren, har bosatt sig där.
+                                                 Kvittera ärendet på: 0173-17500
+
+1459804 15:59:27 22-11-20 POCSAG-4  ALPHA  1200  Trafikolycka - singel Personbil Övrigt:Ärendenr: 16:3367691:2?
+                                                 SOS: Jönköping?
+                                                 2022-11-20 15:54:00?
+                                                 Räddning?
+                                                 Prio: 1?
+                                                 Trafikolycka - singel?
+                                                 Personbil?
+                                                 Övrigt?
+                                                 kört in i räcke?
+                                                 LV844?
+                                                 ?
+                                                 lovsjö?
+                                                 Norrahammar- DRH?
+                                                 Kommun: Jönköping?
+                                                 PosRef: 0?
+                                                 Pos: 6395733, 1403800?
+                                                 ?
+                                                 SOS Alarm - Ett tryggare Sverige för alla
+                                                 - Personbil -
+
+1277918 16:00:59 22-11-20 POCSAG-4  ALPHA  1200  0313341019
+                                                 Knutna kundobjekt :
+
+1353483 16:01:57 22-11-20 POCSAG-1 NUMERIC 1200  0102193000
+
+1277918 16:01:59 22-11-20 POCSAG-4  ALPHA  1200  0313341019
+                                                 Knutna kundobjekt :
+
+1331525 16:02:30 22-11-20 POCSAG-4  ALPHA  1200  Kontakta SvLc angående sjuktransport 0313341225
+
+1350125 16:02:31 22-11-20 POCSAG-1 NUMERIC 1200  049086115
+1353228 16:03:26 22-11-20 POCSAG-1 NUMERIC 1200  031343410
+
+1331525 16:03:30 22-11-20 POCSAG-4  ALPHA  1200  Kontakta SvLc angående sjuktransport 0313341225
+
+1353228 16:04:26 22-11-20 POCSAG-1 NUMERIC 1200  031343410
+
+1277918 16:06:03 22-11-20 POCSAG-4  ALPHA  1200  0313341019
+                                                 Knutna kundobjekt :
+
+1347441 16:06:28 22-11-20 POCSAG-1 NUMERIC 1200  0243497385
+
+1277918 16:07:03 22-11-20 POCSAG-4  ALPHA  1200  0313341019
+                                                 Knutna kundobjekt :
+
+1347441 16:07:28 22-11-20 POCSAG-1 NUMERIC 1200  0243497385
+1459108 16:08:01 22-11-20 POCSAG-1 NUMERIC 1200  0336163912
+
+1458034 16:08:45 22-11-20 POCSAG-4  ALPHA  1200  Brandlarm Posthuset
+                                                 - Brand -
+
+1458034 16:09:19 22-11-20 POCSAG-4  ALPHA  1200  Återställning Brandlarm Posthuset
+                                                 - Brand -
+
+1459144 16:15:42 22-11-20 POCSAG-2  ALPHA  1200  ä%?hOrceÅ(?4Fär'-V%D?`&+2FZ.3v?4??P9??5duHKd?2??O9??Z?L7?I?9
+
+0769913 16:17:29 22-11-20 POCSAG-4  ALPHA  1200  TEKNIKJOUR: Carl Michael Bellman, Namn: Andreas, telnr: 0766283800, en fråga om vattenslang.
+
+1277918 16:24:45 22-11-20 POCSAG-4  ALPHA  1200  0313341019
+                                                 Knutna kundobjekt :
+
+1338317 16:26:04 22-11-20 POCSAG-1 NUMERIC 1200  0795529051
+1457570 16:27:17 22-11-20 POCSAG-1 NUMERIC 1200  024371323
+
+1459043 16:27:54 22-11-20 POCSAG-4  ALPHA  1200  Förlarm : Stn 640
+                                                 Trafikolycka - singel
+                                                 Preliminäradr :
+                                                 - Trafikolycka -
+
+1277918 16:28:26 22-11-20 POCSAG-4  ALPHA  1200  0313341019
+                                                 Knutna kundobjekt :
+
+1335004 16:28:54 22-11-20 POCSAG-4  ALPHA  1200  Förlarm : Stn 640
+                                                 Trafikolycka - singel
+                                                 Preliminäradr :
+                                                 - Trafikolycka -
+
+1277918 16:29:26 22-11-20 POCSAG-4  ALPHA  1200  0313341019
+                                                 Knutna kundobjekt :
+
+1303607 16:29:49 22-11-20 POCSAG-4  ALPHA  1200  2022-11-20 16:29  A Bjärred SPU/SPU40 Anders Möllare/P1 Utlöst motoskydd --- P1 Utlöst motoskydd utlöses
+
+1459043 16:29:54 22-11-20 POCSAG-4  ALPHA  1200  Änr : 3367701
+                                                 Talgr : Jönk RAPS-17
+                                                 Prio : 1
+                                                 Trafikolycka - singel
+                                                 Personbil
+                                                 Enhet : 243-4180
+                                                 Enhet : 243-6708
+                                                 Enhet : 243-6710
+                                                 Enhet : 243-6740
+                                                 Enhet : 243-6780
+                                                 Obj : 
+                                                 Adr : Örskalla
+                                                 Ort : Lommaryd
+                                                 Vägb : 
+                                                 Pos : N=6414555 E=483839 
+                                                 Händelsebeskrivning : 2 pb i diket
+                                                 Kom : 1 pb in i träd
+                                                 - Personbil -
+
+1459043 16:29:59 22-11-20 POCSAG-4  ALPHA  1200  Resurslarm DRH
+                                                 Talgr : Jönk RAPS-17
+                                                 Prio : 1
+                                                 Trafikolycka - singel
+                                                 Personbil
+                                                 Övrigt
+                                                 Örskalla
+                                                 Lommaryd
+                                                 F6700
+                                                 Händelsebeskrivning : 2 pb i diket
+                                                 1 pb in i träd
+                                                 N=6414555 E=483839 
+                                                 Knuten resurs: : 243-4180
+                                                 Knuten resurs: : 243-6708
+                                                 Knuten resurs: : 243-6710
+                                                 Knuten resurs: : 243-6740
+                                                 Knuten resurs: : 243-6780
+                                                 Knuten resurs: : 343-9320
+                                                 - Personbil -
+
+1303607 16:30:50 22-11-20 POCSAG-4  ALPHA  1200  2022-11-20 16:29  A Bjärred SPU/SPU40 Anders Möllare/P1 Utlöst motoskydd --- P1 Utlöst motoskydd utlöses
+
+1335004 16:30:59 22-11-20 POCSAG-4  ALPHA  1200  Resurslarm DRH
+                                                 Talgr : Jönk RAPS-17
+                                                 Prio : 1
+                                                 Trafikolycka - singel
+                                                 Personbil
+                                                 Övrigt
+                                                 Örskalla
+                                                 Lommaryd
+                                                 F6700
+                                                 Händelsebeskrivning : 2 pb i diket
+                                                 1 pb in i träd
+                                                 N=6414555 E=483839 
+                                                 Knuten resurs: : 243-4180
+                                                 Knuten resurs: : 243-6708
+                                                 Knuten resurs: : 243-6710
+                                                 Knuten resurs: : 243-6740
+                                                 Knuten resurs: : 243-6780
+                                                 Knuten resurs: : 343-9320
+                                                 - Personbil -
+
+1277918 16:31:52 22-11-20 POCSAG-4  ALPHA  1200  2022 11 20 16:30:56 AKTIVT    Kättilstorp H06//Överström I> utlöst/Larm
+
+1277918 16:32:05 22-11-20 POCSAG-4  ALPHA  1200  2022 11 20 16:29:17 AKTIVT    Kättilstorp T1//Onormal spänning/Larm
+
+1459804 16:32:35 22-11-20 POCSAG-4  ALPHA  1200  Trafikolycka - singel Personbil Övrigt:Ärendenr: 16:3367701:2?
+                                                 SOS: Jönköping?
+                                                 2022-11-20 16:27:04?
+                                                 Räddning?
+                                                 Prio: 1?
+                                                 Trafikolycka - singel?
+                                                 Personbil?
+                                                 Övrigt?
+                                                 2 pb i diket?
+                                                 Örskalla?
+                                                 ?
+                                                 Lommaryd?
+                                                 Aneby- DRH?
+                                                 Kommun: Aneby?
+                                                 PosRef: 0?
+                                                 Pos: 6416968, 1436051?
+                                                 ?
+                                                 SOS Alarm - Ett tryggare Sverige för alla
+                                                 - Personbil -
+
+1277918 16:32:52 22-11-20 POCSAG-4  ALPHA  1200  2022 11 20 16:30:56 AKTIVT    Kättilstorp H06//Överström I> utlöst/Larm
+
+1277918 16:33:05 22-11-20 POCSAG-4  ALPHA  1200  2022 11 20 16:29:17 AKTIVT    Kättilstorp T1//Onormal spänning/Larm
+
+1459804 16:33:35 22-11-20 POCSAG-4  ALPHA  1200  Trafikolycka - singel Personbil Övrigt:Ärendenr: 16:3367701:2?
+                                                 SOS: Jönköping?
+                                                 2022-11-20 16:27:04?
+                                                 Räddning?
+                                                 Prio: 1?
+                                                 Trafikolycka - singel?
+                                                 Personbil?
+                                                 Övrigt?
+                                                 2 pb i diket?
+                                                 Örskalla?
+                                                 ?
+                                                 Lommaryd?
+                                                 Aneby- DRH?
+                                                 Kommun: Aneby?
+                                                 PosRef: 0?
+                                                 Pos: 6416968, 1436051?
+                                                 ?
+                                                 SOS Alarm - Ett tryggare Sverige för alla
+                                                 - Personbil -
+
+1458684 16:33:57 22-11-20 POCSAG-4  ALPHA  1200  Kontakta SOS 0490-104 08
+                                                 Objekt : G-DLC
+                                                 Typ av larm : Driftlarm
+                                                 Address : Lunnargatan 1
+                                                 Ort : Västervik
+                                                 Händelse : Driftlarm
+
+1337167 16:34:18 22-11-20 POCSAG-1 NUMERIC 1200  0737658620
+
+1458684 16:34:57 22-11-20 POCSAG-4  ALPHA  1200  Kontakta SOS 0490-104 08
+                                                 Objekt : G-DLC
+                                                 Typ av larm : Driftlarm
+                                                 Address : Lunnargatan 1
+                                                 Ort : Västervik
+                                                 Händelse : Driftlarm
+
+1337167 16:35:18 22-11-20 POCSAG-1 NUMERIC 1200  0737658620
+1277918 16:35:43 22-11-20 POCSAG-1 NUMERIC 1200  0515885881
+1277918 16:38:43 22-11-20 POCSAG-4 NUMERIC 1200  33U 0
+0342327 16:39:17 22-11-20 POCSAG-1 NUMERIC 1200  93713
+1398096 16:39:17 22-11-20 POCSAG-3 NUMERIC 1200  TONE ONLY
+
+1277918 16:39:44 22-11-20 POCSAG-4  ALPHA  1200  2022 11 20 16:36:41 AKTIVT    Slutarp H25//Överström I> start/Larm
+
+1329758 16:40:26 22-11-20 POCSAG-1 NUMERIC 1200  0313341293
+1458036 16:43:00 22-11-20 POCSAG-1 NUMERIC 1200  0737658620
+1355305 16:43:35 22-11-20 POCSAG-1 NUMERIC 1200  10 0704317641
+1458036 16:44:00 22-11-20 POCSAG-1 NUMERIC 1200  0737658620
+
+1331911 16:45:17 22-11-20 POCSAG-4  ALPHA  1200  16.44 A SLOT.P316:U380.FEL Fasfel 380 volt Gillberga
+
+1331911 16:45:53 22-11-20 POCSAG-4  ALPHA  1200  Q4506-SP327 Apparatskåp - Larm fasvakt SP327$Ribbingsholm/0_10_AL01_AErr2 11/20/2022 4:44:29 PM
+
+1457427 16:46:05 22-11-20 POCSAG-1 NUMERIC 1200  0703491966
+
+1331911 16:46:18 22-11-20 POCSAG-4  ALPHA  1200  Q4507-Pump x utpumpning - 2 pumpar blockerade SP327$Ribbingsholm/1_01_PU00X_XErr2 11/20/2022 4:44:46 PM
+
+1331911 16:47:05 22-11-20 POCSAG-4  ALPHA  1200  16.45 A SLOT.P323:U380.FEL Fasfel 380 volt Pilen
+
+1457427 16:47:05 22-11-20 POCSAG-1 NUMERIC 1200  0703491966
+1353228 16:48:47 22-11-20 POCSAG-1 NUMERIC 1200  0313434100
+
+1459043 16:49:23 22-11-20 POCSAG-4  ALPHA  1200  Förlarm : Stn 200
+                                                 Hot om suicid
+                                                 Preliminäradr : Järnvägsgatan 9E
+                                                 - Suicid -
+
+1459739 16:49:42 22-11-20 POCSAG-1 NUMERIC 1200  0470-21760
+1353228 16:49:47 22-11-20 POCSAG-1 NUMERIC 1200  0313434100
+
+1459043 16:51:23 22-11-20 POCSAG-4  ALPHA  1200  Resurslarm DRH
+                                                 Talgr : Jönk RAPS-13
+                                                 Prio : 1
+                                                 Hot om suicid
+                                                 Person vid spårområde
+                                                 Brogatan
+                                                 Nässjö
+                                                 F2000
+                                                 Händelsebeskrivning : hotar hoppa framför tåget
+                                                 N=6389751 E=481952 
+                                                 Knuten resurs: : PolisÖst
+                                                 Knuten resurs: : 243-2010
+                                                 Knuten resurs: : 243-2080
+                                                 Knuten resurs: : 343-9250
+                                                 - Suicid -
+
+1459108 16:54:22 22-11-20 POCSAG-1 NUMERIC 1200  0336162600
