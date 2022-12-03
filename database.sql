@@ -1,0 +1,2 @@
+GRANT ALL PRIVILEGES ON *.* TO 'js'@'%' IDENTIFIED BY 'snudefar';
+CREATE DATABASE Pocsag;

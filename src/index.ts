@@ -3,7 +3,8 @@ import "reflect-metadata";
 import * as fs from 'fs';
 import {createConnection, Repository} from "typeorm";
 import {Pocsag} from "./entity/pocsag";
-import * as path from "path";
+import {Utils} from "./Utils";
+const utils = new Utils();
 
 createConnection({
     type: "mysql",
@@ -25,12 +26,11 @@ createConnection({
     pocsag1.msgDate = "2022-10-10";
     pocsag1.msgType ="ALFA";
     pocsag1.msgEnc="POLSAG-1";
-    pocsag1.msgText = "Hoax,testrows";
+    pocsag1.msgText = "Hoax,test-rows";
     let pocsagRepository = connection.getRepository(Pocsag);
     await pocsagRepository.save(pocsag1);
     console.log('Catalog has been saved'+'\n');
     await readFile("./",pocsagRepository);
-    let [all_Catalogs, CatalogsCount] = await pocsagRepository.findAndCount();
 
 
 }).catch(error => console.log(error));
@@ -49,41 +49,43 @@ async function readFile(filename: string, pocsagRepository: Repository<Pocsag>) 
                 files.forEach(file => {
                   if(fs.lstatSync(file).isFile() && file.includes(".log"))  {
                       let pocsag1 = new Pocsag();
+                      let message = "";
                       lineReader.eachLine(file, function(line, last) {
-                         // console.log(`Line from file: ${line}`);
-                          var splitted =line.trim().split(/\s+/);
-                       //   console.log("Splitted: " + splitted);
-                          let count = splitted.length;
+                          let splited =line.trim().split(/\s+/);
+                          let count = splited.length;
                           if(!line || count ==0){
                               try {
+                                  pocsag1.msgText =  message;
                                   console.log(
-                                      " ID: " + pocsag1.id +
                                       " pagerID: " + pocsag1.pagerID +
                                       " msgTime: " + pocsag1.msgTime +
                                       " msgDate: " + pocsag1.msgDate +
-                                      " msgEnc: " + pocsag1.msgEnc +
+                                      " msgEnc: "  + pocsag1.msgEnc +
                                       " msgType: " + pocsag1.msgType +
                                       " msgBaud: " + pocsag1.msgBaud +
                                       " msgText: " + pocsag1.msgText);
-                                  pocsagRepository.save(pocsag1);
+                                  message ="";
+                                 pocsagRepository.save(pocsag1);
+                                  pocsag1 = new Pocsag();
                               } catch (e) {
                                   console.log(e);
                               }
                           } else {
-                              if(count < 3){
-                                  //pocsag1.msgText += splitted[0];
-                              } else {
-                                  pocsag1.pagerID = splitted[0];
-                                  pocsag1.msgTime = splitted[1];
-                                  pocsag1.msgDate = splitted[2];
-                                  pocsag1.msgEnc = splitted[3];
-                                  pocsag1.msgType= splitted[4];
-                                  pocsag1.msgBaud= splitted[5];
-                                  let msgt = "";
+                              if(count < 6){
+                                  message += splited[0];
+                                  pocsag1.msgText += splited[0];
+                              } else if (!isNaN(+splited[0])&& !isNaN(splited[5])) {
+                                  pocsag1.pagerID = splited[0];
+                                  pocsag1.msgTime = splited[1];
+                                  pocsag1.msgDate = splited[2];
+                                  pocsag1.msgEnc = splited[3];
+                                  pocsag1.msgType= splited[4];
+                                  pocsag1.msgBaud= splited[5];
+
                                   for(let i = 6; i < count; i++) {
-                                      msgt +=  splitted[i];
+                                      message +=  splited[i];
                                   }
-                                  pocsag1.msgText =  msgt;
+
                               }
                           }
                           if(last) {
@@ -92,10 +94,10 @@ async function readFile(filename: string, pocsagRepository: Repository<Pocsag>) 
                               console.log(`The script uses approximately ${Math.round(used * 100) / 100} MB`);
                           }
                       });
+                      utils.moveFiles(file,"./arkiv/" + file);
                   } else {
                       console.log(file);
                   }
-
                 })
             }
         })

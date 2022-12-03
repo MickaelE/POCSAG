@@ -4,7 +4,7 @@ import {Entity, Column, PrimaryGeneratedColumn} from "typeorm";
 @Entity()
 export class Pocsag {
     @PrimaryGeneratedColumn()
-    id: number;
+    id: number  ;
     @Column()
     pagerID: number;
     @Column({
@@ -22,7 +22,7 @@ export class Pocsag {
     @Column()
     msgBaud: number;
     @Column({
-        length: 200
+        length: 2000
     })
     msgText: string;
 }
